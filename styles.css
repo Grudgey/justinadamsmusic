@@ -1,0 +1,440 @@
+html, body {
+     background-color: white;
+     font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+     color: #c14753;
+     font-weight: 600;
+     font-size: 5rem;
+     margin-bottom: 0px;
+     line-height: 1;
+}
+
+hr {
+     border: 0;
+     border-top: 3px dotted grey;
+}
+
+a:hover {
+     text-decoration: none;
+}
+
+h2 {
+     color: white;
+     font-size: 4rem;
+     margin-bottom:50px;
+}
+
+h3 {
+     color: white;
+     font-size: 1.2rem;
+}
+
+h4 {
+     text-align: left;
+}
+
+p {
+     color: white;
+     font-size: 1.1rem;
+}
+
+#small-title-middle {
+     color: #c14753;
+     font-size: 1.5rem;
+}
+
+.index-title-row {
+     margin-top: 80px;
+     margin-bottom: 160px;
+}
+
+.index-title-row a, span {
+     color: black;
+     font-size: 1.8rem;
+     letter-spacing: 0.3rem;
+}
+
+.menu {
+     border: 0;
+}
+
+.menu p, h3 {
+     display: inline-block;
+}
+
+.fa-youtube {
+     color: rgb(127, 127, 127);
+	font-size: 2.4rem;
+}
+
+.shop {
+     background-color: rgb(127, 127, 127);
+	border-radius: 5px;
+	color: white;
+	font-size: 1.2rem;
+}
+
+.shop:hover {
+     background-color: white;
+     color: #00000080;
+}
+
+.second-row {
+     background-color: #0F1012;
+}
+
+.justin-frontpage-pic img {
+     width: 100%;
+}
+
+.text-box {
+     /* height:100%; */
+     padding: 20px 50px;
+     /* background-color:#c14753; */
+}
+
+.text-box a {
+     color: white;
+     text-decoration: underline;
+     font-style: italic;
+}
+
+.col-no-padding {
+     padding-left: 0;
+     padding-right: 0;
+}
+
+.bio-top-row {
+     margin-top: 220px;
+	padding-bottom: 15px;
+}
+
+.bio-bg-color {
+     background-color: #1B0007;
+}
+.bio-img {
+	background-image: url("images/justin-live.jpg");
+	width: 100%;
+}
+
+.social-icons a {
+     color: rgb(127, 127, 127);
+}
+
+/* SELECTED PAGE */
+.packshot-container {
+     padding: 0 6%;
+     text-align: left;
+}
+
+.col-prod-title h2 {
+     color: black;
+}
+
+.col-prod-title {
+     padding: 0px 0px 0px 0px;
+     margin-top: 130px;
+     margin-bottom: 0px;
+     text-align: center;
+     margin-left: 0px;
+     margin-right: 0px;
+     /* background-color: #c14753; */
+     /* background-color:#0F1012; */
+}
+
+.collab-row {
+     padding: 0 0 0 0;
+     margin: 0;
+     margin-top: 20px;
+     /* background-color: #00000080; */
+}
+
+.prod-row {
+     padding: 0 0 0 0;
+     margin: 0;
+     margin-top: 20px;
+     margin-bottom: 50px;
+     /* background-color: #00000080; */
+}
+
+.divide-row {
+     height: 4px;
+     background-color: #141517;
+}
+
+.packshot {
+     padding: 0 0 0 2%;
+}
+
+.first-packshot {
+     text-align: left;
+     padding-left: 0;
+}
+
+.packshot img {
+     width: 100%;
+}
+
+.packshot p {
+     padding-top: 20px;
+     padding-left: 0;
+     padding-right: 0;
+     color: rgba(0, 0, 0, .5);
+}
+
+.last-packshot {
+     padding-right: 0;
+}
+
+.prod-packshot {
+     padding-top: 40px;
+}
+
+.collab-title h4 {
+     margin-bottom: 0;
+     background-color: white;
+     font-weight: 200;
+     color: black;
+     line-height: 1.4;
+	text-align: left;
+     width: 100%;
+     font-size: 1.7rem;
+     letter-spacing: 0.3rem;
+}
+
+/* VIDEOS */
+.videos-h2 {
+     padding: 0px 0px 0px 0px;
+     margin-top: 130px;
+     margin-bottom: 0px;
+     text-align: center;
+     margin-left: 0px;
+     margin-right: 0px;
+}
+
+.videos-h2 h2 {
+     color: black;
+     line-height: 1;
+}
+
+.video-section h3 {
+     vertical-align: top;
+}
+
+.rp-second-row {
+     padding: 0% 0%;
+}
+
+.rp-second-row h3 {
+     color: black;
+}
+
+.rp-third-row {
+     background-color: #527aad;
+}
+
+.video-section {
+     padding: 0% 6%;
+     text-align: right;
+}
+
+.video-section h3 {
+     padding-top: 1%;
+}
+
+.video-section iframe {
+     background-color: black;
+     display: block;
+}
+
+.video-section h4 {
+     margin-bottom: 0px;
+     font-weight: 300;
+     color: black;
+     overflow-wrap: break-word;
+     width: 100%;
+     font-size: 1.4rem;
+     letter-spacing: 0.4rem;
+     text-align: left;
+}
+
+.video-row h3 {
+     color: black;
+}
+
+.page-links a, .page-links span {
+     font-size: 1rem;
+     color: rgba(0, 0, 0, .5);
+}
+
+label {
+     color: white;
+}
+
+.contact-col {
+     padding: 20px 50px;
+}
+
+.contact-form-col {
+     text-align: right;
+     padding: 20px 50px;
+}
+
+.contact-img {
+     background-image: url("images/contact.jpg");
+	background-size: cover;
+}
+
+.contact-row {
+     margin-top: 220px;
+     background-color: #0F1012;
+}
+
+.help-block li {
+     color: red;
+}
+
+.btn-success.disabled {
+     background-color: #c14753;
+     color: white;
+     border-color: #c14753;
+     opacity: 1.0;
+}
+
+.small-field {
+     width: 30%;
+     float: right;
+}
+
+.teaching-video-col {
+     padding: 0;
+}
+
+.teaching {
+     background-color: #624B40;
+}
+
+.footer {
+	background-color: #0F1012;
+	text-align: right;
+}
+
+.footer a {
+	color: #626262;
+	font-weight: 200;
+}
+
+/*  */
+/* Responsive part  */
+@media screen and (max-width: 1440px) {
+
+     a {
+          font-size: 2.5rem;
+     }
+
+     h2 {
+          font-size: 5rem;
+     }
+
+     .title {
+          text-align: center;
+     }
+
+	.footer {
+		text-align: center;
+	}
+
+	.footer a {
+		font-size: 2rem;
+	}
+
+	.fa-youtube {
+          font-size: 5rem;
+     }
+
+     .shop {
+          font-size: 2.5rem;
+     }
+
+     .menu p {
+          font-size: 3rem;
+     }
+
+     .index-title-row {
+          margin-top: 300px;
+          margin-bottom: 350px;
+     }
+
+     .index-title-row a, span {
+          color: black;
+          font-size: 2rem;
+          letter-spacing: 0.2rem;
+     }
+
+     h1 {
+          color: #c14753;
+          font-weight: 600;
+          font-size: 5rem;
+          margin-bottom: 0px;
+          line-height: 1;
+     }
+
+     #small-title-middle {
+          color: #c14753;
+          font-size: 2.5rem;
+     }
+
+     .packshot {
+          text-align: left;
+     }
+
+     .first-packshot {
+          padding-left: 0px;
+     }
+
+     .last-packshot {
+          padding-right: 0px;
+     }
+
+     .packshot p {
+          padding-left: 0;
+          padding-right: 0;
+     }
+}
+
+@media screen and (max-width: 1600px) {
+     .collab-title h4 {
+          font-size: 1.5rem;
+     }
+}
+
+@media screen and (max-width: 1200px) {
+     .collab-title h4 {
+          font-size: 2rem;
+     }
+}
+
+@media screen and (max-width: 990px) {
+     .collab-title h4 {
+          font-size: 2.5rem;
+     }
+
+     p {
+          font-size: 2rem;
+     }
+
+     .video-section {
+          text-align: center;
+     }
+
+     .video-section h3 {
+          font-size: 2rem;
+     }
+
+     .video-section h4 {
+          margin-bottom: 5px;
+          font-size: 2.5rem;
+     }
+}

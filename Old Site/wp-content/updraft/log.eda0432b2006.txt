@@ -1,0 +1,411 @@
+0000.003 (0) Opened log file at time: Thu, 11 Jun 2020 01:25:02 +0000 on https://justinadamsmusic.com
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.23.24 WP: 5.2.6 PHP: 7.1.33 (cgi-fcgi, Linux web1.extendcp.co.uk 2.6.32-754.29.1.el6.x86_64 #1 SMP Mon Apr 27 15:30:33 UTC 2020 x86_64) MySQL: 10.1.27-MariaDB WPLANG: en_GB Server: Apache/2.4.41 (Unix) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 62.1M | 74M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 2642834 MB
+0000.014 (0) Deleting old log file: log.2fe64286835d.txt
+0000.016 (0) Deleting old log file: log.365b6c2ff176.txt
+0000.022 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB: 1 (schedule: daily)
+0000.031 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.035 (0) Set semaphore last lock (fd) time to 2020-06-11 01:25:02
+0000.036 (0) Semaphore lock (fd) complete
+0000.042 (0) Backup run: resumption=0, nonce=eda0432b2006, file_nonce=eda0432b2006 begun at=1591838702 (0s ago), job type=backup, label=Automatic backup before update caused by entities (wpcore)
+0000.044 (0) A resumption will be scheduled for the cloud backup stage
+0000.045 (0) Scheduling a resumption (1) after 300 seconds (1591839002) in case this run gets aborted
+0000.068 (0) Checking if we have a zip executable available
+0000.070 (0) Testing: /usr/bin/zip
+0000.079 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.082 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.083 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.084 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.086 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.094 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.096 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.113 (0) Working binary zip found: /usr/bin/zip
+0000.116 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.117 (0) Creation of backups of directories: beginning
+0000.121 (0) No backup of plugins: excluded by user's options
+0000.122 (0) No backup of themes: excluded by user's options
+0000.123 (0) No backup of uploads: excluded by user's options
+0000.131 (0) Beginning creation of dump of wpcore (split every: 400 MB)
+0000.668 (0) Total entities for the zip file: 141 directories, 1616 files (0 skipped as non-modified), 37.3 MB
+0000.703 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.745 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.773 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.818 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.868 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.871 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.5 MB, 1616 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.972 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: size is now: 1.90 MB
+0001.998 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 600 files added (on-disk size: 1955.4 KB)
+0002.028 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 700 files added (on-disk size: 1955.4 KB)
+0002.052 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 800 files added (on-disk size: 1955.4 KB)
+0002.086 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 900 files added (on-disk size: 1955.4 KB)
+0002.116 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 1000 files added (on-disk size: 1955.4 KB)
+0002.118 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.8 MB, 1616 files batched, 501 (1002) added so far); re-opening (prior size: 1955.4 KB)
+0003.217 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: size is now: 4.30 MB
+0003.248 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 1100 files added (on-disk size: 4383.3 KB)
+0003.279 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 1200 files added (on-disk size: 4383.3 KB)
+0003.329 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 1300 files added (on-disk size: 4383.3 KB)
+0003.375 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 1400 files added (on-disk size: 4383.3 KB)
+0003.410 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 1500 files added (on-disk size: 4383.3 KB)
+0003.413 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (18.1 MB, 1616 files batched, 501 (1503) added so far); re-opening (prior size: 4383.3 KB)
+0005.286 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: size is now: 8.70 MB
+0005.330 (0) Zip: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip.tmp: 1600 files added (on-disk size: 8949.4 KB)
+0006.002 (0) Created wpcore zip (0) - 9833.2 KB in 5.9 s (1675.9 KB/s) (sha1: 1e327cb62df7d8052fdfc8fcba963bbbc9d9379d, sha256: 84396481b9c98e86baf541846a334694a67294ee138c13e5292f6eab17737d1d)
+0006.007 (0) No backup of others: excluded by user's options
+0006.008 (0) No backup of more: excluded by user's options
+0006.013 (0) Saving backup status to database (elements: 2)
+0006.022 (0) Beginning creation of database dump (WordPress DB)
+0006.026 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0006.057 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1228 bytes total)
+0006.060 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0006.073 (0) Table wp_options: Total expected rows (approximate): 274
+0006.115 (0) Table wp_options: Total rows added: 282 in 0.04 seconds
+0006.128 (0) Table wp_options: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_options.table.gz - 126.6 KB)
+0006.140 (0) Table wp_users: Total expected rows (approximate): 1
+0006.144 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0006.147 (0) Table wp_users: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_users.table.gz - 0.5 KB)
+0006.155 (0) Table wp_usermeta: Total expected rows (approximate): 32
+0006.159 (0) Table wp_usermeta: Total rows added: 33 in 0.00 seconds
+0006.161 (0) Table wp_usermeta: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_usermeta.table.gz - 2.3 KB)
+0006.170 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0006.173 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0006.176 (0) Table wp_commentmeta: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0006.184 (0) Table wp_comments: Total expected rows (approximate): 0
+0006.187 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0006.195 (0) Table wp_comments: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_comments.table.gz - 0.5 KB)
+0006.204 (0) Table wp_links: Total expected rows (approximate): 0
+0006.211 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0006.212 (0) Table wp_links: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_links.table.gz - 0.4 KB)
+0006.219 (0) Table wp_postmeta: Total expected rows (approximate): 52
+0006.221 (0) Table wp_postmeta: Total rows added: 52 in 0.00 seconds
+0006.229 (0) Table wp_postmeta: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_postmeta.table.gz - 1.7 KB)
+0006.236 (0) Table wp_posts: Total expected rows (approximate): 72
+0006.245 (0) Table wp_posts: Total rows added: 72 in 0.01 seconds
+0006.248 (0) Table wp_posts: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_posts.table.gz - 6.9 KB)
+0006.254 (0) Table wp_term_relationships: Total expected rows (approximate): 0
+0006.258 (0) Table wp_term_relationships: Total rows added: 0 in 0.00 seconds
+0006.260 (0) Table wp_term_relationships: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_term_relationships.table.gz - 0.3 KB)
+0006.268 (0) Table wp_term_taxonomy: Total expected rows (approximate): 2
+0006.271 (0) Table wp_term_taxonomy: Total rows added: 2 in 0.00 seconds
+0006.273 (0) Table wp_term_taxonomy: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0006.282 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0006.284 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0006.286 (0) Table wp_termmeta: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_termmeta.table.gz - 0.4 KB)
+0006.293 (0) Table wp_terms: Total expected rows (approximate): 2
+0006.300 (0) Table wp_terms: Total rows added: 2 in 0.01 seconds
+0006.303 (0) Table wp_terms: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_terms.table.gz - 0.4 KB)
+0006.311 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 0
+0006.314 (0) Table wp_yoast_seo_links: Total rows added: 0 in 0.00 seconds
+0006.316 (0) Table wp_yoast_seo_links: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_yoast_seo_links.table.gz - 0.4 KB)
+0006.324 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 4
+0006.329 (0) Table wp_yoast_seo_meta: Total rows added: 8 in 0.00 seconds
+0006.331 (0) Table wp_yoast_seo_meta: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_yoast_seo_meta.table.gz - 0.4 KB)
+0006.339 (0) Table wp_revslider_css: Total expected rows (approximate): 109
+0006.346 (0) Table wp_revslider_css: Total rows added: 109 in 0.01 seconds
+0006.348 (0) Table wp_revslider_css: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_css.table.gz - 4.8 KB)
+0006.355 (0) Table wp_revslider_css_bkp: Total expected rows (approximate): 109
+0006.361 (0) Table wp_revslider_css_bkp: Total rows added: 109 in 0.00 seconds
+0006.363 (0) Table wp_revslider_css_bkp: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_css_bkp.table.gz - 4.8 KB)
+0006.371 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0006.373 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0006.374 (0) Table wp_revslider_layer_animations: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0006.384 (0) Table wp_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0006.386 (0) Table wp_revslider_layer_animations_bkp: Total rows added: 0 in 0.00 seconds
+0006.388 (0) Table wp_revslider_layer_animations_bkp: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_layer_animations_bkp.table.gz - 0.3 KB)
+0006.395 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0006.398 (0) Table wp_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0006.399 (0) Table wp_revslider_navigations: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_navigations.table.gz - 0.3 KB)
+0006.408 (0) Table wp_revslider_navigations_bkp: Total expected rows (approximate): 0
+0006.411 (0) Table wp_revslider_navigations_bkp: Total rows added: 0 in 0.00 seconds
+0006.413 (0) Table wp_revslider_navigations_bkp: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_navigations_bkp.table.gz - 0.3 KB)
+0006.420 (0) Table wp_revslider_sliders: Total expected rows (approximate): 2
+0006.424 (0) Table wp_revslider_sliders: Total rows added: 2 in 0.00 seconds
+0006.426 (0) Table wp_revslider_sliders: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_sliders.table.gz - 3.2 KB)
+0006.438 (0) Table wp_revslider_sliders_bkp: Total expected rows (approximate): 2
+0006.443 (0) Table wp_revslider_sliders_bkp: Total rows added: 2 in 0.00 seconds
+0006.447 (0) Table wp_revslider_sliders_bkp: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_sliders_bkp.table.gz - 3.2 KB)
+0006.459 (0) Table wp_revslider_slides: Total expected rows (approximate): 3
+0006.465 (0) Table wp_revslider_slides: Total rows added: 3 in 0.01 seconds
+0006.467 (0) Table wp_revslider_slides: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_slides.table.gz - 4.3 KB)
+0006.473 (0) Table wp_revslider_slides_bkp: Total expected rows (approximate): 3
+0006.478 (0) Table wp_revslider_slides_bkp: Total rows added: 3 in 0.00 seconds
+0006.481 (0) Table wp_revslider_slides_bkp: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_slides_bkp.table.gz - 4.3 KB)
+0006.490 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 0
+0006.492 (0) Table wp_revslider_static_slides: Total rows added: 0 in 0.00 seconds
+0006.493 (0) Table wp_revslider_static_slides: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_static_slides.table.gz - 0.3 KB)
+0006.499 (0) Table wp_revslider_static_slides_bkp: Total expected rows (approximate): 0
+0006.505 (0) Table wp_revslider_static_slides_bkp: Total rows added: 0 in 0.01 seconds
+0006.508 (0) Table wp_revslider_static_slides_bkp: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_static_slides_bkp.table.gz - 0.3 KB)
+0006.518 (0) Table wp_wfBlockedIPLog: Total expected rows (approximate): 74
+0006.525 (0) Table wp_wfBlockedIPLog: Total rows added: 75 in 0.00 seconds
+0006.527 (0) Table wp_wfBlockedIPLog: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfBlockedIPLog.table.gz - 1.1 KB)
+0006.535 (0) Table wp_wfBlocks7: Total expected rows (approximate): 0
+0006.542 (0) Table wp_wfBlocks7: Total rows added: 3 in 0.00 seconds
+0006.545 (0) Table wp_wfBlocks7: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfBlocks7.table.gz - 0.6 KB)
+0006.552 (0) Table wp_wfConfig: Total expected rows (approximate): 272
+0006.577 (0) Table wp_wfConfig: Total rows added: 274 in 0.02 seconds
+0006.583 (0) Table wp_wfConfig: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfConfig.table.gz - 373.8 KB)
+0006.589 (0) Table wp_wfCrawlers: Total expected rows (approximate): 6
+0006.592 (0) Table wp_wfCrawlers: Total rows added: 7 in 0.00 seconds
+0006.594 (0) Table wp_wfCrawlers: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfCrawlers.table.gz - 0.5 KB)
+0006.601 (0) Table wp_wfFileChanges: Total expected rows (approximate): 0
+0006.604 (0) Table wp_wfFileChanges: Total rows added: 0 in 0.00 seconds
+0006.606 (0) Table wp_wfFileChanges: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfFileChanges.table.gz - 0.3 KB)
+0006.614 (0) Table wp_wfFileMods: Total expected rows (approximate): 1973
+0006.758 (0) Table wp_wfFileMods: Total rows added: 7140 in 0.14 seconds
+0006.767 (0) Table wp_wfFileMods: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfFileMods.table.gz - 623.9 KB)
+0006.776 (0) Table wp_wfHits: Total expected rows (approximate): 513
+0006.796 (0) Table wp_wfHits: Total rows added: 572 in 0.02 seconds
+0006.798 (0) Table wp_wfHits: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfHits.table.gz - 60.1 KB)
+0006.806 (0) Table wp_wfHoover: Total expected rows (approximate): 0
+0006.808 (0) Table wp_wfHoover: Total rows added: 0 in 0.00 seconds
+0006.810 (0) Table wp_wfHoover: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfHoover.table.gz - 0.3 KB)
+0006.818 (0) Table wp_wfIssues: Total expected rows (approximate): 10
+0006.821 (0) Table wp_wfIssues: Total rows added: 10 in 0.00 seconds
+0006.826 (0) Table wp_wfIssues: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfIssues.table.gz - 3.8 KB)
+0006.834 (0) Table wp_wfKnownFileList: Total expected rows (approximate): 7213
+0006.892 (0) Table wp_wfKnownFileList: Total rows added: 7140 in 0.06 seconds
+0006.895 (0) Table wp_wfKnownFileList: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfKnownFileList.table.gz - 71.6 KB)
+0006.904 (0) Table wp_wfLiveTrafficHuman: Total expected rows (approximate): 0
+0006.906 (0) Table wp_wfLiveTrafficHuman: Total rows added: 0 in 0.00 seconds
+0006.908 (0) Table wp_wfLiveTrafficHuman: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfLiveTrafficHuman.table.gz - 0.3 KB)
+0006.916 (0) Table wp_wfLocs: Total expected rows (approximate): 0
+0006.918 (0) Table wp_wfLocs: Total rows added: 0 in 0.00 seconds
+0006.920 (0) Table wp_wfLocs: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfLocs.table.gz - 0.4 KB)
+0006.925 (0) Table wp_wfLogins: Total expected rows (approximate): 213
+0006.935 (0) Table wp_wfLogins: Total rows added: 568 in 0.01 seconds
+0006.937 (0) Table wp_wfLogins: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfLogins.table.gz - 12.2 KB)
+0006.945 (0) Table wp_wfNotifications: Total expected rows (approximate): 59
+0006.949 (0) Table wp_wfNotifications: Total rows added: 125 in 0.00 seconds
+0006.950 (0) Table wp_wfNotifications: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfNotifications.table.gz - 3.6 KB)
+0006.958 (0) Table wp_wfPendingIssues: Total expected rows (approximate): 0
+0006.960 (0) Table wp_wfPendingIssues: Total rows added: 0 in 0.00 seconds
+0006.962 (0) Table wp_wfPendingIssues: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfPendingIssues.table.gz - 0.4 KB)
+0006.969 (0) Table wp_wfReverseCache: Total expected rows (approximate): 0
+0006.972 (0) Table wp_wfReverseCache: Total rows added: 2 in 0.00 seconds
+0006.973 (0) Table wp_wfReverseCache: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfReverseCache.table.gz - 0.4 KB)
+0006.981 (0) Table wp_wfSNIPCache: Total expected rows (approximate): 0
+0006.983 (0) Table wp_wfSNIPCache: Total rows added: 0 in 0.00 seconds
+0006.984 (0) Table wp_wfSNIPCache: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfSNIPCache.table.gz - 0.4 KB)
+0007.004 (0) Table wp_wfStatus: Total expected rows (approximate): 990
+0007.015 (0) Table wp_wfStatus: Total rows added: 1008 in 0.01 seconds
+0007.018 (0) Table wp_wfStatus: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfStatus.table.gz - 16.3 KB)
+0007.024 (0) Table wp_wfTrafficRates: Total expected rows (approximate): 0
+0007.027 (0) Table wp_wfTrafficRates: Total rows added: 0 in 0.00 seconds
+0007.028 (0) Table wp_wfTrafficRates: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfTrafficRates.table.gz - 0.3 KB)
+0007.035 (0) Table wp_wfls_2fa_secrets: Total expected rows (approximate): 0
+0007.037 (0) Table wp_wfls_2fa_secrets: Total rows added: 0 in 0.00 seconds
+0007.039 (0) Table wp_wfls_2fa_secrets: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfls_2fa_secrets.table.gz - 0.4 KB)
+0007.049 (0) Table wp_wfls_settings: Total expected rows (approximate): 17
+0007.051 (0) Table wp_wfls_settings: Total rows added: 19 in 0.00 seconds
+0007.053 (0) Table wp_wfls_settings: finishing file (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfls_settings.table.gz - 0.7 KB)
+0007.057 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_options.table.gz (1/47): adding to final database dump
+0007.082 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_users.table.gz (2/47): adding to final database dump
+0007.085 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_usermeta.table.gz (3/47): adding to final database dump
+0007.089 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_commentmeta.table.gz (4/47): adding to final database dump
+0007.091 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_comments.table.gz (5/47): adding to final database dump
+0007.093 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_links.table.gz (6/47): adding to final database dump
+0007.095 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_postmeta.table.gz (7/47): adding to final database dump
+0007.098 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_posts.table.gz (8/47): adding to final database dump
+0007.102 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_term_relationships.table.gz (9/47): adding to final database dump
+0007.104 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_term_taxonomy.table.gz (10/47): adding to final database dump
+0007.106 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_termmeta.table.gz (11/47): adding to final database dump
+0007.108 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_terms.table.gz (12/47): adding to final database dump
+0007.110 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_yoast_seo_links.table.gz (13/47): adding to final database dump
+0007.112 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_yoast_seo_meta.table.gz (14/47): adding to final database dump
+0007.114 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_css.table.gz (15/47): adding to final database dump
+0007.117 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_css_bkp.table.gz (16/47): adding to final database dump
+0007.120 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_layer_animations.table.gz (17/47): adding to final database dump
+0007.122 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_layer_animations_bkp.table.gz (18/47): adding to final database dump
+0007.124 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_navigations.table.gz (19/47): adding to final database dump
+0007.126 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_navigations_bkp.table.gz (20/47): adding to final database dump
+0007.129 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_sliders.table.gz (21/47): adding to final database dump
+0007.132 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_sliders_bkp.table.gz (22/47): adding to final database dump
+0007.134 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_slides.table.gz (23/47): adding to final database dump
+0007.137 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_slides_bkp.table.gz (24/47): adding to final database dump
+0007.140 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_static_slides.table.gz (25/47): adding to final database dump
+0007.142 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_revslider_static_slides_bkp.table.gz (26/47): adding to final database dump
+0007.144 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfBlockedIPLog.table.gz (27/47): adding to final database dump
+0007.146 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfBlocks7.table.gz (28/47): adding to final database dump
+0007.148 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfConfig.table.gz (29/47): adding to final database dump
+0007.169 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfCrawlers.table.gz (30/47): adding to final database dump
+0007.173 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfFileChanges.table.gz (31/47): adding to final database dump
+0007.175 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfFileMods.table.gz (32/47): adding to final database dump
+0007.235 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfHits.table.gz (33/47): adding to final database dump
+0007.248 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfHoover.table.gz (34/47): adding to final database dump
+0007.250 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfIssues.table.gz (35/47): adding to final database dump
+0007.253 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfKnownFileList.table.gz (36/47): adding to final database dump
+0007.269 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfLiveTrafficHuman.table.gz (37/47): adding to final database dump
+0007.272 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfLocs.table.gz (38/47): adding to final database dump
+0007.274 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfLogins.table.gz (39/47): adding to final database dump
+0007.279 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfNotifications.table.gz (40/47): adding to final database dump
+0007.282 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfPendingIssues.table.gz (41/47): adding to final database dump
+0007.285 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfReverseCache.table.gz (42/47): adding to final database dump
+0007.288 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfSNIPCache.table.gz (43/47): adding to final database dump
+0007.290 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfStatus.table.gz (44/47): adding to final database dump
+0007.295 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfTrafficRates.table.gz (45/47): adding to final database dump
+0007.298 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfls_2fa_secrets.table.gz (46/47): adding to final database dump
+0007.300 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db-table-wp_wfls_settings.table.gz (47/47): adding to final database dump
+0007.315 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db.gz: finished writing out complete database file (1024 KB)
+0007.353 (0) Total database tables backed up: 47 (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db.gz, size: 1358332, sha1: cf90ed377b4a12bc0d64fab69ca353d6e010d2ed, sha256: 7173b08ca35c2adc58b727ac5df687ca9ab24315c22242895178140eb6949c27)
+0007.365 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip: wpcore: This file has not yet been successfully uploaded: will queue
+0007.366 (0) backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db.gz: db: This file has not yet been successfully uploaded: will queue
+0007.367 (0) Saving backup history. Total backup size: 10.9 MB
+0007.373 (0) Requesting upload of the files that have not yet been successfully uploaded (2)
+0007.377 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0007.378 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-17262ac4a7016f8e96ebc5fe533e6e75)
+0007.379 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0007.395 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0007.780 (0) Dropbox: quota usage: used=1359242.3 MB, total=2119936 MB, available=760693.7 MB
+0007.781 (0) Dropbox: Attempt to upload: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip to: ribbons/backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip
+0009.018 (0) Dropbox chunked upload: 10.4 % uploaded (AAAAAAALVNZ-YhjlmVwucw, 1048576, 4096 KB)
+0011.975 (0) Dropbox chunked upload: 52.1 % uploaded (AAAAAAALVNZ-YhjlmVwucw, 5242880, 8704 KB)
+0015.632 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAALVNZ-YhjlmVwucw, 10069169, 8704 KB)
+0017.304 (0) Recording as successfully uploaded: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip
+0017.313 (0) Deleting local file: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip: OK
+0017.314 (0) Dropbox: File upload success (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-wpcore.zip): 9833 KB in 9s (1031 KB/s)
+0017.680 (0) Dropbox: quota usage: used=1359251.9 MB, total=2119936 MB, available=760684.1 MB
+0017.682 (0) Dropbox: Attempt to upload: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db.gz to: ribbons/backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db.gz
+0018.900 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAALVNdv135DJiiO0w, 1358332, 8704 KB)
+0020.336 (0) Recording as successfully uploaded: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db.gz
+0020.340 (0) Deleting local file: backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db.gz: OK
+0020.342 (0) Dropbox: File upload success (backup_2020-06-11-0225_RIBBONS_JUSTIN_ADAMS_feat_ANN_eda0432b2006-db.gz): 1326 KB in 2s (498 KB/s)
+0020.348 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=9, retain_db=9
+0020.353 (0) Number of backup sets in history: 31; groups (db): 1
+0020.354 (0) Examining (for databases) backup set with group_id=0, nonce=eda0432b2006, datestamp=1591838702 (Jun 11 2020 01:25:02)
+0020.355 (0) This backup set is the backup set just made, so will not be deleted.
+0020.355 (0) Examining (for databases) backup set with group_id=0, nonce=95b0865d792c, datestamp=1591407717 (Jun 06 2020 01:41:57)
+0020.355 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.356 (0) Examining (for databases) backup set with group_id=0, nonce=1c07748eb403, datestamp=1591337872 (Jun 05 2020 06:17:52)
+0020.356 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.356 (0) Examining (for databases) backup set with group_id=0, nonce=b85fc6246627, datestamp=1591283688 (Jun 04 2020 15:14:48)
+0020.356 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.357 (0) Examining (for databases) backup set with group_id=0, nonce=56477a7bfc60, datestamp=1591160764 (Jun 03 2020 05:06:04)
+0020.357 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.357 (0) Examining (for databases) backup set with group_id=0, nonce=bee191e78fef, datestamp=1591110677 (Jun 02 2020 15:11:17)
+0020.357 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.357 (0) Examining (for databases) backup set with group_id=0, nonce=943c3925ab42, datestamp=1591007103 (Jun 01 2020 10:25:03)
+0020.357 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.357 (0) Examining (for databases) backup set with group_id=0, nonce=3da4e28fb884, datestamp=1590937361 (May 31 2020 15:02:41)
+0020.357 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.357 (0) Examining (for databases) backup set with group_id=0, nonce=6ec7682d3c3d, datestamp=1590816758 (May 30 2020 05:32:38)
+0020.357 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0020.357 (0) Examining (for databases) backup set with group_id=0, nonce=2c419da63259, datestamp=1590520269 (May 26 2020 19:11:09)
+0020.357 (0) 1590520269: db: this set includes a database (backup_2020-05-26-2011_RIBBONS_JUSTIN_ADAMS_feat_ANN_2c419da63259-db.gz); db count is now 9
+0020.357 (0) 1590520269: db: over retain limit (9); will delete this database
+0020.357 (0) Delete file: backup_2020-05-26-2011_RIBBONS_JUSTIN_ADAMS_feat_ANN_2c419da63259-db.gz, service=dropbox
+0020.360 (0) Dropbox: request deletion: ribbons/backup_2020-05-26-2011_RIBBONS_JUSTIN_ADAMS_feat_ANN_2c419da63259-db.gz
+0021.086 (0) Dropbox: delete succeeded
+0021.089 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=365b6c2ff176, datestamp=1588263223 (Apr 30 2020 16:13:43)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=a4304ea726e2, datestamp=1576283149 (Dec 14 2019 00:25:49)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=b2a8c038d6f5, datestamp=1572532600 (Oct 31 2019 14:36:40)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=422bee9ec9d8, datestamp=1571156309 (Oct 15 2019 16:18:29)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=10379875fad7, datestamp=1567680534 (Sep 05 2019 10:48:54)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=b29bfac917fb, datestamp=1552508846 (Mar 13 2019 20:27:26)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=2f307832e26f, datestamp=1547107384 (Jan 10 2019 08:03:04)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=1bea8c62dcb7, datestamp=1545277749 (Dec 20 2018 03:49:09)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=dde9640d4cb2, datestamp=1544775823 (Dec 14 2018 08:23:43)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=3943296d0b89, datestamp=1544722821 (Dec 13 2018 17:40:21)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=d15bbd55e1d4, datestamp=1533426270 (Aug 04 2018 23:44:30)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=8de884d8587a, datestamp=1530904438 (Jul 06 2018 19:13:58)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=71eb1c311cc8, datestamp=1527137047 (May 24 2018 04:44:07)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=eea43264f164, datestamp=1523040618 (Apr 06 2018 18:50:18)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=52b705310da4, datestamp=1520948604 (Mar 13 2018 13:43:24)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=d9dbae291825, datestamp=1516471592 (Jan 20 2018 18:06:32)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=f7c00ffc3859, datestamp=1512102987 (Dec 01 2017 04:36:27)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=e0d26d4ddb53, datestamp=1509557019 (Nov 01 2017 17:23:39)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=105fb451a35b, datestamp=1506010831 (Sep 21 2017 16:20:31)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=12f82582dfeb, datestamp=1495060724 (May 17 2017 22:38:44)
+0021.091 (0) Examining (for databases) backup set with group_id=0, nonce=ed02c08b2aa9, datestamp=1493394598 (Apr 28 2017 15:49:58)
+0021.091 (0) Number of backup sets in history: 31; groups (files): 1
+0021.092 (0) Examining (for files) backup set with nonce=eda0432b2006, datestamp=1591838702 (Jun 11 2020 01:25:02)
+0021.092 (0) This backup set is the backup set just made, so will not be deleted.
+0021.093 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.094 (0) Examining (for files) backup set with nonce=95b0865d792c, datestamp=1591407717 (Jun 06 2020 01:41:57)
+0021.094 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.094 (0) Examining (for files) backup set with nonce=1c07748eb403, datestamp=1591337872 (Jun 05 2020 06:17:52)
+0021.094 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.095 (0) Examining (for files) backup set with nonce=b85fc6246627, datestamp=1591283688 (Jun 04 2020 15:14:48)
+0021.095 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.095 (0) Examining (for files) backup set with nonce=56477a7bfc60, datestamp=1591160764 (Jun 03 2020 05:06:04)
+0021.095 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.095 (0) Examining (for files) backup set with nonce=bee191e78fef, datestamp=1591110677 (Jun 02 2020 15:11:17)
+0021.095 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.095 (0) Examining (for files) backup set with nonce=943c3925ab42, datestamp=1591007103 (Jun 01 2020 10:25:03)
+0021.095 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.095 (0) Examining (for files) backup set with nonce=3da4e28fb884, datestamp=1590937361 (May 31 2020 15:02:41)
+0021.095 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.095 (0) Examining (for files) backup set with nonce=6ec7682d3c3d, datestamp=1590816758 (May 30 2020 05:32:38)
+0021.095 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0021.095 (0) Examining (for files) backup set with nonce=2c419da63259, datestamp=1590520269 (May 26 2020 19:11:09)
+0021.096 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.097 (0) Examining (for files) backup set with nonce=365b6c2ff176, datestamp=1588263223 (Apr 30 2020 16:13:43)
+0021.097 (0) This backup set (1588263223) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.097 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.097 (0) Examining (for files) backup set with nonce=a4304ea726e2, datestamp=1576283149 (Dec 14 2019 00:25:49)
+0021.097 (0) This backup set (1576283149) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.097 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.097 (0) Examining (for files) backup set with nonce=b2a8c038d6f5, datestamp=1572532600 (Oct 31 2019 14:36:40)
+0021.097 (0) This backup set (1572532600) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.097 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.097 (0) Examining (for files) backup set with nonce=422bee9ec9d8, datestamp=1571156309 (Oct 15 2019 16:18:29)
+0021.097 (0) This backup set (1571156309) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.097 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.097 (0) Examining (for files) backup set with nonce=10379875fad7, datestamp=1567680534 (Sep 05 2019 10:48:54)
+0021.097 (0) This backup set (1567680534) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.097 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.097 (0) Examining (for files) backup set with nonce=b29bfac917fb, datestamp=1552508846 (Mar 13 2019 20:27:26)
+0021.097 (0) This backup set (1552508846) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.097 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.097 (0) Examining (for files) backup set with nonce=2f307832e26f, datestamp=1547107384 (Jan 10 2019 08:03:04)
+0021.097 (0) This backup set (1547107384) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.097 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.097 (0) Examining (for files) backup set with nonce=1bea8c62dcb7, datestamp=1545277749 (Dec 20 2018 03:49:09)
+0021.097 (0) This backup set (1545277749) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.097 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.097 (0) Examining (for files) backup set with nonce=dde9640d4cb2, datestamp=1544775823 (Dec 14 2018 08:23:43)
+0021.097 (0) This backup set (1544775823) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=3943296d0b89, datestamp=1544722821 (Dec 13 2018 17:40:21)
+0021.098 (0) This backup set (1544722821) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=d15bbd55e1d4, datestamp=1533426270 (Aug 04 2018 23:44:30)
+0021.098 (0) This backup set (1533426270) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=8de884d8587a, datestamp=1530904438 (Jul 06 2018 19:13:58)
+0021.098 (0) This backup set (1530904438) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=71eb1c311cc8, datestamp=1527137047 (May 24 2018 04:44:07)
+0021.098 (0) This backup set (1527137047) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=eea43264f164, datestamp=1523040618 (Apr 06 2018 18:50:18)
+0021.098 (0) This backup set (1523040618) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=52b705310da4, datestamp=1520948604 (Mar 13 2018 13:43:24)
+0021.098 (0) This backup set (1520948604) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=d9dbae291825, datestamp=1516471592 (Jan 20 2018 18:06:32)
+0021.098 (0) This backup set (1516471592) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=f7c00ffc3859, datestamp=1512102987 (Dec 01 2017 04:36:27)
+0021.098 (0) This backup set (1512102987) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=e0d26d4ddb53, datestamp=1509557019 (Nov 01 2017 17:23:39)
+0021.098 (0) This backup set (1509557019) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=105fb451a35b, datestamp=1506010831 (Sep 21 2017 16:20:31)
+0021.098 (0) This backup set (1506010831) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=12f82582dfeb, datestamp=1495060724 (May 17 2017 22:38:44)
+0021.098 (0) This backup set (1495060724) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Examining (for files) backup set with nonce=ed02c08b2aa9, datestamp=1493394598 (Apr 28 2017 15:49:58)
+0021.098 (0) This backup set (1493394598) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0021.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0021.098 (0) Retain: saving new backup history (sets now: 31) and finishing retain operation
+0021.107 (0) Resume backup (eda0432b2006, 0): finish run
+0021.110 (0) Decremented the semaphore (fd) by 1
+0021.112 (0) Semaphore (fd) unlocked
+0021.113 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0021.118 (0) No email will/can be sent - the user has not configured an email address.
+0021.119 (0) The backup apparently succeeded and is now complete

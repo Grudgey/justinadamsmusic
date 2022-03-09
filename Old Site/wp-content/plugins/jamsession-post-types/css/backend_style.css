@@ -1,0 +1,25 @@
+#js_swp_custom_bg_meta h2, 
+#js_swp_blog_layout_type h2, 
+#js_swp_masonry_settings_meta h2 {
+	color: #fff;
+    background-color: #016b92;
+}
+
+#js_swp_custom_bg_meta .toggle-indicator, 
+#js_swp_blog_layout_type .toggle-indicator, 
+#js_swp_masonry_settings_meta .toggle-indicator {
+	color: #ffffff;
+}
+
+.js_swp_meta_bg_image_buttons, .js_swp_blog_layout_type_select_container {
+	display: block;
+    width: 100%;
+}
+
+input#js_swp_meta_bg_image {
+	display: none;
+}
+
+#custom_bg_meta_preview {
+	width: 400px;
+}

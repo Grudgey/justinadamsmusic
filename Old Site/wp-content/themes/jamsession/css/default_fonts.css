@@ -1,0 +1,26 @@
+body, #main_menu ul ul li a, .menu ul ul li a,
+.woocommerce table.shop_table th, .woocommerce-page table.shop_table th,
+.woocommerce .order_details li, .woocommerce-page .order_details li, #sidebar ul li,
+nav.mobile_navigation ul.sub-menu li a {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, blockquote, th, ul, ul li, ol, ol li, 
+#TB_ajaxWindowTitle, .slideTitle, .slideMessage, 
+#main_menu ul li a, .menu ul li a, #logo,
+#wp-calendar caption, #post_title, #page_title, #archive_title, #album_title, #title_all, 
+#comments-title, #commentform label, #contactform label, .woocommerce form .form-row label, .woocommerce-page form .form-row label, 
+#commentform input[type="submit"], #contactform input[type="submit"], #sidebar input[type="submit"], #inline_search input[type="submit"], .js_swp_theme_button, 
+.woocommerce #content input.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button,
+.woocommerce-page #content input.button, .woocommerce-page #respond input#submit, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, 
+#respond h3,
+.reply, .post_tag a, .post_cat a, #sidebar .tagcloud a, .current_tax, 
+.post_item_title, .event_brick_date, .event_brick_venue, .event_meta_date, 
+.custom_actions a, .fb_actions a, 
+.album_meta_title, .share_text, .pagination_links, .page_navigation, .copy, #front_page_news_bar, #front_page_news_bar a, #news_badge, 
+.woocommerce span.onsale, .woocommerce-page span.onsale,
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active,
+.woocommerce a.added_to_cart, .woocommerce-page a.added_to_cart, 
+#maintenance_logo a, #maintenance_title, .album_widget_right h3, .js_swp_event_buy, .event_date_list, .event_buy_list, .js_swp_lt_name, .wg_event_date, #logo_mobile {
+	font-family: "Oswald", sans-serif;
+}

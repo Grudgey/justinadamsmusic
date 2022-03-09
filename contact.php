@@ -1,19 +1,11 @@
 <?php
-/*
- *  CONFIGURE EVERYTHING HERE
- */
 
-// an email address that will be in the From field of the email.
-$from = 'Demo contact form <greg@beautifulworldagency.com>';
+$from = 'justinadamsmusic.com <messages@justinadamsmusic.com>';
 
-// an email address that will receive the email with the output of the form
-$sendTo = 'Demo contact form <greg@beautifulworldagency.com>';
+$sendTo = 'Justin Adams <justinadams1@icloud.com>';
 
-// subject of the email
 $subject = 'New message from justinadamsmusic.com';
 
-// form field names and their translations.
-// array variable name => Text to appear in the email
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
 
 // message that will be displayed when everything is OK :)
@@ -22,11 +14,6 @@ $okMessage = 'Message sent. Thank you, I will get back to you soon!';
 // If something goes wrong, we will display this message.
 $errorMessage = 'There was an error while submitting the form. Please try again later';
 
-/*
- *  LET'S DO THE SENDING
- */
-
-// if you are not debugging and don't need error reporting, turn this off by error_reporting(0);
 error_reporting(E_ALL & ~E_NOTICE);
 
 try

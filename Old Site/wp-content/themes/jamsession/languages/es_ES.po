@@ -1,0 +1,758 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JamSession\n"
+"POT-Creation-Date: 2014-05-06 22:32+0200\n"
+"PO-Revision-Date: 2017-08-17 15:37+0300\n"
+"Last-Translator: Fermin J. Reus <freus@outlook.com>\n"
+"Language-Team: SmartWPress <support@smartwpress.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: D:/JamSession/__submission/__7/pentru poedit/jamsession\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: D:/JamSession/__submission/__7/pentru poedit/"
+"jamsession\n"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:8
+msgid "404 Page not found "
+msgstr "404 Página no encontrada "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:9
+msgid "Sorry, the page you requested doesn't exist."
+msgstr "Lo siento, la página que busca está de gira o no existe."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:10
+msgid "Don't worry, you can try these simple things:"
+msgstr "No se preocupe, puede probar esto:"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:13
+msgid ""
+"Hit your browser's back button, it'll take you back to the previous page."
+msgstr "Pulse el botón atrás en su navegador, le llevará a la página anterior."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:16
+msgid "Go to the "
+msgstr "Ir a "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:16
+msgid "Homepage."
+msgstr "Página de inicio."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:19
+msgid "If you want to report a problem, please "
+msgstr "Si quiere informar de un problema "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:20
+msgid "contact us."
+msgstr "contacta con nosotros."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/archive.php:11
+#: poedit\jamsession/archive.php:14 poedit\jamsession/archive.php:17
+msgid "Posts for "
+msgstr "Realizado por "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/archive.php:71
+#: poedit\jamsession/author.php:61 poedit\jamsession/category.php:62
+#: poedit\jamsession/page.php:34 poedit\jamsession/page_contact.php:189
+#: poedit\jamsession/page_contact_full.php:188
+#: poedit\jamsession/page_full.php:40 poedit\jamsession/single-js_videos.php:65
+#: poedit\jamsession/tag.php:61
+msgid "Sorry, no pages matched your criteria."
+msgstr "Lo siento, no existen páginas con ese criterio."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/archives.php:102
+#: poedit\jamsession/index.php:73 poedit\jamsession/single.php:66
+#: poedit\jamsession/taxonomy-photo_album_category.php:72
+#: poedit\jamsession/taxonomy-video_category.php:72
+msgid "Sorry, no posts matched your criteria."
+msgstr "Lo siento, no encuentro nada con ese criterio."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/author.php:8
+msgid "Posts by "
+msgstr "Publicado por"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/category.php:8
+msgid "Posts under "
+msgstr "Publicar en"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/category.php:10
+msgid " category "
+msgstr " categoría "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr "Instalar complementos requeridos"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr "Instalar complementos"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando  complemento: %s"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "Algo fue mal"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr "Volver a instalador de complementos requeridos"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "Volver a principal"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:212
+#: poedit\jamsession/class-tgm-plugin-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr "El siguiente complemento fue activado correctamente:"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los complemento instalados y activados correctamente. %1$s"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:544
+#: poedit\jamsession/class-tgm-plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr "Volver al panel principal"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr "Repositorio privado"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr "WordPress Repositorio"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr "Requerido"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1290
+#: poedit\jamsession/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr "Instalar"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1312
+#: poedit\jamsession/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr "Activar"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay complemento a instalar o activar. <a href=\"%1$s\" title=\"Volver al "
+"panel principal\">Volver al panel principal</a>"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Complemento"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr "Fuente"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr "Escriba"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr "Estado"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay complementos disponibles para instalar en este momento."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay complementos disponibles para activar en este momento."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1934
+msgid "Install package not available."
+msgstr "Paquete de instalación no disponible"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descargando paquete de instalación de  <span class=\"code\">%s</span>&#8230;"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr "Desempaquetando paquete&#8230;"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando complemento&#8230;"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr "Falló la instalación del complemento"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr "Complemento instalado correctamente."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr "Falló la activación del complemento."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación ha comenzado. Este proceso puede "
+"tomarse un poco de tiempo en algunos servidores, por favor sea paciente. "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2065
+#: poedit\jamsession/class-tgm-plugin-activation.php:2074
+msgid "Show Details"
+msgstr "Mostar detalles"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2065
+#: poedit\jamsession/class-tgm-plugin-activation.php:2074
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar y activar el complemento %1$s (%2$d/%3$d)"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está iniciando. Este proceso puede tardar un poco "
+"en algunos servidores, así que por favor sea paciente."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error en la instalación %1$s: <strong>%2$s</strong>."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de  %1$s falló."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Complemento instalado %1$s (%2$d/%3$d)"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/comments.php:19
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Este mensaje está protegido. Introduzca la palabra de paso para ver algún "
+"comentario."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/comments.php:41
+#: poedit\jamsession/comments.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Comentarios Anteriores "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/comments.php:42
+#: poedit\jamsession/comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nuevos comentarios <span class=\"meta-nav\">&rarr;</span>"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/comments.php:70
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:25
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:142
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dijo:</span>"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:145
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está esperando moderación."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:152
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s de %2$s"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:152
+#: poedit\jamsession/functions.php:169
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:169
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:297
+#: poedit\jamsession/functions.php:303
+msgid "SHARE"
+msgstr "COMPARTIR"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:300
+msgid "TWEET"
+msgstr "TWEET"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:311
+msgid "PIN"
+msgstr "PIN"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:399
+#, php-format
+msgid "View all post filed under %s"
+msgstr "Ver todos los mensajes archivados en %s"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:621
+msgid "There is no live show for this moment, check back soon."
+msgstr ""
+"No existen actuaciones actualmente, compruébelo otra vez dentro de poco."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/header.php:67
+msgid "Search..."
+msgstr "Buscando..."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:15
+#: poedit\jamsession/page_contact_full.php:15
+msgid "Please enter your name."
+msgstr "Por favor introduzca su nombre."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:25
+#: poedit\jamsession/page_contact_full.php:25
+msgid "Please enter your email address."
+msgstr "Por favor introduzca su dirección de email."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:32
+#: poedit\jamsession/page_contact_full.php:32
+msgid "You entered an invalid email address."
+msgstr "Introdujo un email incorrecto"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:46
+#: poedit\jamsession/page_contact_full.php:46
+msgid "Please enter a message."
+msgstr "Por favor, introduzca un mensaje."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:70
+#: poedit\jamsession/page_contact_full.php:69
+msgid "Contact Form Message"
+msgstr "Contacto del mensaje"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:73
+#: poedit\jamsession/page_contact_full.php:72
+msgid "Contact Phone: "
+msgstr "Teléfono de contacto: "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:109
+#: poedit\jamsession/page_contact_full.php:108
+msgid "Thanks, your email was sent successfully."
+msgstr "Gracias, su email se envió correctamente."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:119
+#: poedit\jamsession/page_contact_full.php:118
+msgid "Sorry, an error occured."
+msgstr "Lo siento, ha ocurrido un error."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:123
+#: poedit\jamsession/page_contact_full.php:122
+msgid "The reCAPTCHA was not entered correctly."
+msgstr "El reCAPTCHA no se introdujo correctamente."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:137
+#: poedit\jamsession/page_contact_full.php:136
+msgid "Send us a Message"
+msgstr "Envíanos un mensaje"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:141
+#: poedit\jamsession/page_contact_full.php:140
+msgid "Name "
+msgstr "Nombre "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:150
+#: poedit\jamsession/page_contact_full.php:149
+msgid "Email "
+msgstr "Email "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:158
+#: poedit\jamsession/page_contact_full.php:157
+msgid "Phone "
+msgstr "Teléfono "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:163
+#: poedit\jamsession/page_contact_full.php:162
+msgid "Message "
+msgstr "Mensaje "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:178
+#: poedit\jamsession/page_contact_full.php:177
+msgid "Send Email"
+msgstr "Enviar Email"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/page_discography.php:15
+#: poedit\jamsession/taxonomy-album_category.php:7
+msgid "Discography"
+msgstr "Discografía"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_events.php:16
+#: poedit\jamsession/page_past_events.php:16
+#: poedit\jamsession/taxonomy-event_category.php:11
+msgid "Tour Dates"
+msgstr "Eventos"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/page_main_slider.php:18
+msgid "upcoming events"
+msgstr "Próximos eventos"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/photo_gallery.php:14
+msgid "Photo gallery "
+msgstr "Galería de fotos "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/search.php:7
+msgid "Search results for "
+msgstr "Resultados de la búsqueda por "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/search.php:81
+msgid ""
+"Sorry, no results were found matching your criteria. Please try something "
+"else."
+msgstr ""
+"Lo siento, no he encontrado nada con ese criterio. Por favor, inténtelo otra "
+"vez."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/searchform.php:3
+msgid "Search for ..."
+msgstr "Buscar por ..."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/searchform.php:3
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_albums.php:69
+msgid "Released: "
+msgstr "Realizado: "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_albums.php:77
+msgid "Artist: "
+msgstr "Artista: "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_albums.php:85
+msgid "Label: "
+msgstr "Etiqueta: "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_albums.php:93
+msgid "Producer: "
+msgstr "Productor: "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_albums.php:101
+msgid "Number of Discs: "
+msgstr "Número de disco: "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_albums.php:211
+#: poedit\jamsession/single-js_events.php:195
+msgid "Sorry, no album matched your criteria."
+msgstr "Lo siento, no existe ningún álbum que coincida con ese criterio."
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_events.php:48
+msgid "Date: "
+msgstr "Fecha: "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_events.php:57
+msgid "Time: "
+msgstr "Hora: "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_events.php:66
+msgid "Location: "
+msgstr "Ubicación: "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_events.php:76
+msgid "Venue: "
+msgstr "Lugar: "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_events.php:104
+msgid "Buy Tickets"
+msgstr "Comprar entradas"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_photo_albums.php:20
+#: poedit\jamsession/single-js_videos.php:18 poedit\jamsession/single.php:18
+msgid "by"
+msgstr "por "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_photo_albums.php:25
+#: poedit\jamsession/single-js_videos.php:23 poedit\jamsession/single.php:20
+msgid " in "
+msgstr " en "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/single-js_photo_albums.php:90
+msgid "Sorry, no photo albums matched your criteria."
+msgstr "Lo siento, no existen álbumes de fotos con ese criterio."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single.php:29
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single.php:34
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single.php:35
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/tag.php:8
+msgid "Posts tagged under "
+msgstr "Mensajes etiquetados "
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/taxonomy-photo_album_category.php:9
+msgid "Photo Gallery"
+msgstr "Galería de fotos"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/taxonomy-video_category.php:9
+msgid "Video Gallery"
+msgstr "Galería de vídeos"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:42
+msgid "Logo Color Options"
+msgstr "Opciones de colores del Logo"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:45
+msgid "Allows you to customize logo colors"
+msgstr "Permite personalizar Colores logo"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:69
+msgid "Logo Text Color"
+msgstr "Color texto Logo"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:93
+msgid "Logo Transparent Background"
+msgstr "Fondo de logo transparente"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:120
+msgid "Logo Background Color"
+msgstr "Color de fondo Logo"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:136
+msgid "Menu Options"
+msgstr "Opciones de menú"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:139
+msgid "Allows you to customize main menu"
+msgstr "Permite personalizar menú principal,"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:159
+msgid "Menu Text Color"
+msgstr "Color texto Menú"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:183
+msgid "Menu Color"
+msgstr "Color Menú"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:205
+msgid "Menu Width"
+msgstr "Ancho menú"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:211
+msgid "Full Width"
+msgstr "Tamaño completo"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:212
+msgid "Boxed"
+msgstr "En caja"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:231
+msgid "Transparent Menu Bar"
+msgstr "Barra transparente de menú"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:246
+msgid "Header Layouts"
+msgstr "Diseño de cabecera"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:249
+msgid "Allows you to customize header layout"
+msgstr "Permite personalizar diseño de cabecera"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:267
+msgid "Menu &amp; Logo Position"
+msgstr "Menu &amp; posición del logo"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:273
+msgid "Stuck on Top"
+msgstr "Pegado arriba"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:274
+msgid "Distanced"
+msgstr "Distanciado"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:275
+msgid "Logo Above Menu"
+msgstr "Logo sobre el Menú"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:284
+#: poedit\jamsession/theme_customizer.php:306
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_customizer.php:287
+msgid "Choose the secondary color"
+msgstr "Seleccione el color secundario"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_settings.php:854
+msgid "Use this image as logo"
+msgstr "Usar esta imagen como logo"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_settings.php:859
+msgid "Use this image as favicon"
+msgstr "Usar esta imagen como favicon"
+
+#: D:\JamSession\__submission\__7\pentru
+#: poedit\jamsession/theme_settings.php:864
+msgid "Use this image as background"
+msgstr "Usar esta imagen como fondo"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/video_gallery.php:13
+msgid "Video gallery "
+msgstr "Galería de vídeos "

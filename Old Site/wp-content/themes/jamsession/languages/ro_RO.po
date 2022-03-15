@@ -1,0 +1,620 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JamSession\n"
+"POT-Creation-Date: 2014-05-06 22:32+0200\n"
+"PO-Revision-Date: 2015-10-15 21:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: SmartWPress <support@smartwpress.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: D:\\JamSession\\__submission\\__7\\pentru poedit\\jamsession\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\JamSession\\__submission\\__7\\pentru poedit\\jamsession\n"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:8
+msgid "404 Page not found "
+msgstr "Eroare 404 - Pagina nu a fost găsită"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:9
+msgid "Sorry, the page you requested doesn't exist."
+msgstr "Ne pare rău, pagina pe care ați solicitat-o nu există."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:10
+msgid "Don't worry, you can try these simple things:"
+msgstr "Nu vă faceți griji, puteți încerca aceste lucruri simple:"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:13
+msgid "Hit your browser's back button, it'll take you back to the previous page."
+msgstr "Apasa butonul Back al browser-ului, te va duce înapoi la pagina anterioară."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:16
+msgid "Go to the "
+msgstr "Du-te la "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:16
+msgid "Homepage."
+msgstr "Pagina de start."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:19
+msgid "If you want to report a problem, please "
+msgstr "Dacă doriți să raportați o problemă, vă rugăm să "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/404.php:20
+msgid "contact us."
+msgstr "contactaţi-ne."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/archive.php:11 poedit\jamsession/archive.php:14
+#: poedit\jamsession/archive.php:17
+msgid "Posts for "
+msgstr "Posturi pentru "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/archive.php:71 poedit\jamsession/author.php:61
+#: poedit\jamsession/category.php:62 poedit\jamsession/page.php:34 poedit\jamsession/page_contact.php:189
+#: poedit\jamsession/page_contact_full.php:188 poedit\jamsession/page_full.php:40 poedit\jamsession/single-js_videos.php:65
+#: poedit\jamsession/tag.php:61
+msgid "Sorry, no pages matched your criteria."
+msgstr "Ne pare rău, nu exista pagini care sa corespunda criteriilor."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/archives.php:102 poedit\jamsession/index.php:73 poedit\jamsession/single.php:66
+#: poedit\jamsession/taxonomy-photo_album_category.php:72 poedit\jamsession/taxonomy-video_category.php:72
+msgid "Sorry, no posts matched your criteria."
+msgstr "Scuze, nicio postare nu se potriveste criteriilor dumneavoastra."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/author.php:8
+msgid "Posts by "
+msgstr "Postate de"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/category.php:8
+msgid "Posts under "
+msgstr "Posturi pentru"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/category.php:10
+msgid " category "
+msgstr " categorie "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr "Instalați pluginurile necesare"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr "Instalați Pluginuri"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Se instaleaza pluginul: %s"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "Ceva n-a mers bine."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr "Întoarceți-vă la Plugins Installer"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "Întoarceți-vă la tabloul de bord"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:212
+#: poedit\jamsession/class-tgm-plugin-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr "Plugin activat cu succes."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr "Următorul plugin a fost activat cu succes:"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toate pluginurile au fost instalate și activate cu %1$s"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "Renunțați la această notificare."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:544
+#: poedit\jamsession/class-tgm-plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr "Întoarceți-vă la Tabloul de bord"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr "Repository privat"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr "Preambalat"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr "Necesar"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr "Recomandat"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr "Neinstalat"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr "Instalat, dar nu este activat"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1290
+#: poedit\jamsession/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr "Instala"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1312
+#: poedit\jamsession/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr "Activa"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Nu sunt plugin-uri pentru a fi instalate sau a activate. <a href=\" %1$s \" title=\"Return la Dashboard\"> Inapoi la </a> Tabloul de bord"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Plugin"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr "Sursă"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr "Tip"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr "Stare"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr "Nu sunt plugin-uri sunt disponibile pentru a fi instalate în acest moment."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr "Nu sunt plugin-uri sunt disponibile pentru a fi activate în acest moment."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1934
+msgid "Install package not available."
+msgstr "Pachetul de instalare nu este disponibil."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Descărcarea instala pachetul de <span class=\"code\">%s</span>&#8230;"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr "Despachetarea pachetul & # 8230;"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr "Instalez pluginul & # 8230;"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr "Instalarea pluginului a eșuat."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr "Plugin instalat cu succes."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr "Activarea pluginului nu a reușit."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2064
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Procesul de instalare și activare începe. Acest proces poate dura un timp pe unele servere, așa că vă rugăm să aveți răbdare."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s este instalat și activat cu succes."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2065
+#: poedit\jamsession/class-tgm-plugin-activation.php:2074
+msgid "Show Details"
+msgstr "Arata detalii"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2065
+#: poedit\jamsession/class-tgm-plugin-activation.php:2074
+msgid "Hide Details"
+msgstr "Ascunde detalii"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr "Toate instalările și activările au fost finalizate."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalarea și activarea %1$s %2$d %3$d"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2071
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Procesul de instalare începe. Acest proces poate dura un timp pe unele servere, așa că vă rugăm să aveți răbdare."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "A apărut o eroare în timp ce %1$s %2$s </ strong>."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s nu a reușit."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalat cu succes."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr "Toate instalarile au fost finalizate."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalarea %1$s %2$d %3$d"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/comments.php:19
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Acest post este protejat prin parolă. Introduceți parola pentru a vizualiza nici un comentariu."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/comments.php:41 poedit\jamsession/comments.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span>Comentarii mai vechi"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/comments.php:42 poedit\jamsession/comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Comentarii Noi <span class=\"meta-nav\">&rarr;</span>"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/comments.php:70
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:25
+msgid "Main Menu"
+msgstr "Meniul principal"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:142
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">> spune: </ span>"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:145
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul dvs. așteaptă să fie moderat."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:152
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:152 poedit\jamsession/functions.php:169
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:169
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:297 poedit\jamsession/functions.php:303
+msgid "SHARE"
+msgstr "ACȚIUNE"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:300
+msgid "TWEET"
+msgstr "Tweet"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:311
+msgid "PIN"
+msgstr "PIN"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:399
+#, php-format
+msgid "View all post filed under %s"
+msgstr "Vezi toate posturile pentru %s"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/functions.php:621
+msgid "There is no live show for this moment, check back soon."
+msgstr "Nu există nici un show live pentru acest moment, verificați din nou în curând."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/header.php:67
+msgid "Search..."
+msgstr "Căutare ..."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:15 poedit\jamsession/page_contact_full.php:15
+msgid "Please enter your name."
+msgstr "Va rugam sa va scrieti numele."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:25 poedit\jamsession/page_contact_full.php:25
+msgid "Please enter your email address."
+msgstr "Va rugam sa introduceti adresa dvs. de email."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:32 poedit\jamsession/page_contact_full.php:32
+msgid "You entered an invalid email address."
+msgstr "Ați introdus o adresă de e-mail nevalidă."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:46 poedit\jamsession/page_contact_full.php:46
+msgid "Please enter a message."
+msgstr "Vă rugăm să introduceți un mesaj."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:70 poedit\jamsession/page_contact_full.php:69
+msgid "Contact Form Message"
+msgstr "Formular de contact"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:73 poedit\jamsession/page_contact_full.php:72
+msgid "Contact Phone: "
+msgstr "Telefon de contact : "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:109 poedit\jamsession/page_contact_full.php:108
+msgid "Thanks, your email was sent successfully."
+msgstr "Multumesc, e-mailul a fost trimis cu succes."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:119 poedit\jamsession/page_contact_full.php:118
+msgid "Sorry, an error occured."
+msgstr "Ne pare rău, a apărut o eroare."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:123 poedit\jamsession/page_contact_full.php:122
+msgid "The reCAPTCHA was not entered correctly."
+msgstr "ReCAPTCHA nu a fost introdus corect."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:137 poedit\jamsession/page_contact_full.php:136
+msgid "Send us a Message"
+msgstr "Trimite-ne un mesaj"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:141 poedit\jamsession/page_contact_full.php:140
+msgid "Name "
+msgstr "Nume "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:150 poedit\jamsession/page_contact_full.php:149
+msgid "Email "
+msgstr "E-mail "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:158 poedit\jamsession/page_contact_full.php:157
+msgid "Phone "
+msgstr "Telefon "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:163 poedit\jamsession/page_contact_full.php:162
+msgid "Message "
+msgstr "Mesaj "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_contact.php:178 poedit\jamsession/page_contact_full.php:177
+msgid "Send Email"
+msgstr "Trimite email"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_discography.php:15 poedit\jamsession/taxonomy-album_category.php:7
+msgid "Discography"
+msgstr "Discografie"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_events.php:16 poedit\jamsession/page_past_events.php:16
+#: poedit\jamsession/taxonomy-event_category.php:11
+msgid "Tour Dates"
+msgstr "Date Turneu"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/page_main_slider.php:18
+msgid "upcoming events"
+msgstr "evenimente viitoare"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/photo_gallery.php:14
+msgid "Photo gallery "
+msgstr "Galerie foto "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/search.php:7
+msgid "Search results for "
+msgstr "Cauta rezultate pentru "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/search.php:81
+msgid "Sorry, no results were found matching your criteria. Please try something else."
+msgstr "Ne pare rău, nu au fost găsite rezultate care indeplinesc criteriul Dvs.. Vă rugăm să încercați altceva."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/searchform.php:3
+msgid "Search for ..."
+msgstr "Caută ..."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/searchform.php:3
+msgid "Search for:"
+msgstr "Caută:"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_albums.php:69
+msgid "Released: "
+msgstr "Lansat: "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_albums.php:77
+msgid "Artist: "
+msgstr "Artist: "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_albums.php:85
+msgid "Label: "
+msgstr "Casa de discuri: "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_albums.php:93
+msgid "Producer: "
+msgstr "Producător: "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_albums.php:101
+msgid "Number of Discs: "
+msgstr "Număr de discuri: "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_albums.php:211 poedit\jamsession/single-js_events.php:195
+msgid "Sorry, no album matched your criteria."
+msgstr "Ne pare rău, nici un album potrivit criteriilor."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_events.php:48
+msgid "Date: "
+msgstr "Data: "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_events.php:57
+msgid "Time: "
+msgstr "Ora: "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_events.php:66
+msgid "Location: "
+msgstr "Locația: "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_events.php:76
+msgid "Venue: "
+msgstr "Locul de desfasurare: "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_events.php:104
+msgid "Buy Tickets"
+msgstr "Cumpara bilete"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_photo_albums.php:20 poedit\jamsession/single-js_videos.php:18
+#: poedit\jamsession/single.php:18
+msgid "by"
+msgstr "de"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_photo_albums.php:25 poedit\jamsession/single-js_videos.php:23
+#: poedit\jamsession/single.php:20
+msgid " in "
+msgstr " în "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single-js_photo_albums.php:90
+msgid "Sorry, no photo albums matched your criteria."
+msgstr "Ne pare rău, nu exista albume foto potrivit criteriilor."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single.php:29
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single.php:34
+msgid "Next page"
+msgstr "Pagina următoare"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/single.php:35
+msgid "Previous page"
+msgstr "Pagina anterioară"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/tag.php:8
+msgid "Posts tagged under "
+msgstr "Posts tagged sub "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/taxonomy-photo_album_category.php:9
+msgid "Photo Gallery"
+msgstr "Galerie foto"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/taxonomy-video_category.php:9
+msgid "Video Gallery"
+msgstr "Galerie video"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:42
+msgid "Logo Color Options"
+msgstr "Opțiuni Logo culoare"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:45
+msgid "Allows you to customize logo colors"
+msgstr "Vă permite să personalizați logo culori"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:69
+msgid "Logo Text Color"
+msgstr "Logo Text Color"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:93
+msgid "Logo Transparent Background"
+msgstr "Logo Background transparent"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:120
+msgid "Logo Background Color"
+msgstr "Culoare Logo fundal"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:136
+msgid "Menu Options"
+msgstr "Opțiuni de meniu"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:139
+msgid "Allows you to customize main menu"
+msgstr "Vă permite să personalizați meniul principal"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:159
+msgid "Menu Text Color"
+msgstr "Meniu Text Color"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:183
+msgid "Menu Color"
+msgstr "Culoare Meniu"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:205
+msgid "Menu Width"
+msgstr "Lățime Meniu"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:211
+msgid "Full Width"
+msgstr "Lățime Completă"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:212
+msgid "Boxed"
+msgstr "Cutie"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:231
+msgid "Transparent Menu Bar"
+msgstr "Bară meniu transparentă"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:246
+msgid "Header Layouts"
+msgstr "Aspecte antet"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:249
+msgid "Allows you to customize header layout"
+msgstr "Vă permite să personalizați aspectul headerului."
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:267
+msgid "Menu &amp; Logo Position"
+msgstr "Poziția Pentru Meniu &amp; Logo "
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:273
+msgid "Stuck on Top"
+msgstr "Lipit de partea de sus a ecranului"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:274
+msgid "Distanced"
+msgstr "Distanțat"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:275
+msgid "Logo Above Menu"
+msgstr "Logo peste meniu"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:284 poedit\jamsession/theme_customizer.php:306
+msgid "Secondary Color"
+msgstr "Culoare secundara"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_customizer.php:287
+msgid "Choose the secondary color"
+msgstr "Alege culoarea secundară"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_settings.php:854
+msgid "Use this image as logo"
+msgstr "Utilizați această imagine ca logo"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_settings.php:859
+msgid "Use this image as favicon"
+msgstr "Utilizați această imagine ca favicon"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/theme_settings.php:864
+msgid "Use this image as background"
+msgstr "Utilizați această imagine ca fundal"
+
+#: D:\JamSession\__submission\__7\pentru poedit\jamsession/video_gallery.php:13
+msgid "Video gallery "
+msgstr "Galerie video "

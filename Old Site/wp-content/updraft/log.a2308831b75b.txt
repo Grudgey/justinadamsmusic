@@ -1,0 +1,539 @@
+0000.000 (0) Opened log file at time: Sat, 04 Jul 2020 15:13:03 +0000 on https://justinadamsmusic.com
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.23.24 WP: 5.2.7 PHP: 7.1.33 (cgi-fcgi, Linux web4.extendcp.co.uk 2.6.32-754.29.1.el6.x86_64 #1 SMP Mon Apr 27 15:30:33 UTC 2020 x86_64) MySQL: 10.1.27-MariaDB WPLANG: en_GB Server: Apache/2.4.41 (Unix) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 63.7M | 76M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 2563137 MB
+0000.007 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.008 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.012 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1593762982, seconds_ago=112601)
+0000.014 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2020-07-04 15:13:03
+0000.019 (0) Semaphore (fd, wp_options) reset to 1
+0000.021 (0) Set semaphore last lock (fd) time to 2020-07-04 15:13:03
+0000.022 (0) Semaphore lock (fd) complete
+0000.027 (0) Backup run: resumption=0, nonce=a2308831b75b, file_nonce=a2308831b75b begun at=1593875583 (0s ago), job type=backup
+0000.035 (0) Scheduling a resumption (1) after 300 seconds (1593875883) in case this run gets aborted
+0000.038 (0) Checking if we have a zip executable available
+0000.039 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.040 (0) Creation of backups of directories: beginning
+0000.045 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.988 (0) Total entities for the zip file: 883 directories, 6384 files (0 skipped as non-modified), 81.6 MB
+0003.008 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.071 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: size is now: 0.20 MB
+0003.133 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 100 files added (on-disk size: 199.7 KB)
+0003.198 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 200 files added (on-disk size: 199.7 KB)
+0003.241 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 300 files added (on-disk size: 199.7 KB)
+0003.294 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 400 files added (on-disk size: 199.7 KB)
+0003.350 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 500 files added (on-disk size: 199.7 KB)
+0003.353 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.5 MB, 6384 files batched, 501 (502) added so far); re-opening (prior size: 199.7 KB)
+0004.038 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: size is now: 3.00 MB
+0004.095 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 600 files added (on-disk size: 3037.6 KB)
+0004.145 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 700 files added (on-disk size: 3037.6 KB)
+0004.191 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 800 files added (on-disk size: 3037.6 KB)
+0004.251 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 900 files added (on-disk size: 3037.6 KB)
+0004.319 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 1000 files added (on-disk size: 3037.6 KB)
+0004.322 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9 MB, 6384 files batched, 501 (1003) added so far); re-opening (prior size: 3037.6 KB)
+0005.134 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: size is now: 4.70 MB
+0005.230 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 1100 files added (on-disk size: 4816.5 KB)
+0005.282 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 1200 files added (on-disk size: 4816.5 KB)
+0005.332 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 1300 files added (on-disk size: 4816.5 KB)
+0005.397 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 1400 files added (on-disk size: 4816.5 KB)
+0005.468 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 1500 files added (on-disk size: 4816.5 KB)
+0005.476 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.9 MB, 6384 files batched, 501 (1504) added so far); re-opening (prior size: 4816.5 KB)
+0006.098 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 1600 files added (on-disk size: 5598.9 KB)
+0006.164 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 1700 files added (on-disk size: 5598.9 KB)
+0006.220 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 1800 files added (on-disk size: 5598.9 KB)
+0006.285 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 1900 files added (on-disk size: 5598.9 KB)
+0006.339 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 2000 files added (on-disk size: 5598.9 KB)
+0006.344 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.5 MB, 6384 files batched, 501 (2005) added so far); re-opening (prior size: 5598.9 KB)
+0007.006 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 2100 files added (on-disk size: 6373.5 KB)
+0007.075 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 2200 files added (on-disk size: 6373.5 KB)
+0007.137 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 2300 files added (on-disk size: 6373.5 KB)
+0007.199 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 2400 files added (on-disk size: 6373.5 KB)
+0007.267 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 2500 files added (on-disk size: 6373.5 KB)
+0007.273 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.6 MB, 6384 files batched, 501 (2506) added so far); re-opening (prior size: 6373.5 KB)
+0008.360 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: size is now: 9.10 MB
+0008.443 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 2600 files added (on-disk size: 9353.6 KB)
+0008.512 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 2700 files added (on-disk size: 9353.6 KB)
+0008.590 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 2800 files added (on-disk size: 9353.6 KB)
+0008.668 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 2900 files added (on-disk size: 9353.6 KB)
+0008.739 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 3000 files added (on-disk size: 9353.6 KB)
+0008.743 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.1 MB, 6384 files batched, 501 (3007) added so far); re-opening (prior size: 9353.6 KB)
+0009.656 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 3100 files added (on-disk size: 10606.9 KB)
+0009.732 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 3200 files added (on-disk size: 10606.9 KB)
+0009.816 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 3300 files added (on-disk size: 10606.9 KB)
+0009.898 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 3400 files added (on-disk size: 10606.9 KB)
+0009.969 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 3500 files added (on-disk size: 10606.9 KB)
+0009.975 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.4 MB, 6384 files batched, 501 (3508) added so far); re-opening (prior size: 10606.9 KB)
+0010.896 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 3600 files added (on-disk size: 11421.7 KB)
+0010.964 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 3700 files added (on-disk size: 11421.7 KB)
+0011.028 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 3800 files added (on-disk size: 11421.7 KB)
+0011.107 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 3900 files added (on-disk size: 11421.7 KB)
+0011.175 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 4000 files added (on-disk size: 11421.7 KB)
+0011.182 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (0.2 MB, 6384 files batched, 501 (4009) added so far); re-opening (prior size: 11421.7 KB)
+0011.926 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 4100 files added (on-disk size: 11657.9 KB)
+0011.983 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 4200 files added (on-disk size: 11657.9 KB)
+0012.032 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 4300 files added (on-disk size: 11657.9 KB)
+0012.082 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 4400 files added (on-disk size: 11657.9 KB)
+0012.114 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 4500 files added (on-disk size: 11657.9 KB)
+0012.119 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.9 MB, 6384 files batched, 501 (4510) added so far); re-opening (prior size: 11657.9 KB)
+0013.653 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: size is now: 17.70 MB
+0013.704 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 4600 files added (on-disk size: 18154.6 KB)
+0013.768 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 4700 files added (on-disk size: 18154.6 KB)
+0013.847 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 4800 files added (on-disk size: 18154.6 KB)
+0013.914 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 4900 files added (on-disk size: 18154.6 KB)
+0013.978 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 5000 files added (on-disk size: 18154.6 KB)
+0013.985 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.4 MB, 6384 files batched, 501 (5011) added so far); re-opening (prior size: 18154.6 KB)
+0015.486 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: size is now: 21.70 MB
+0015.540 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 5100 files added (on-disk size: 22243.7 KB)
+0015.605 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 5200 files added (on-disk size: 22243.7 KB)
+0015.655 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 5300 files added (on-disk size: 22243.7 KB)
+0015.699 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 5400 files added (on-disk size: 22243.7 KB)
+0015.760 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 5500 files added (on-disk size: 22243.7 KB)
+0015.765 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.1 MB, 6384 files batched, 501 (5512) added so far); re-opening (prior size: 22243.7 KB)
+0017.194 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 5600 files added (on-disk size: 24832.9 KB)
+0017.292 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 5700 files added (on-disk size: 24832.9 KB)
+0017.362 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 5800 files added (on-disk size: 24832.9 KB)
+0017.427 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 5900 files added (on-disk size: 24832.9 KB)
+0017.481 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 6000 files added (on-disk size: 24832.9 KB)
+0017.492 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (7.3 MB, 6384 files batched, 501 (6013) added so far); re-opening (prior size: 24832.9 KB)
+0019.022 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 6100 files added (on-disk size: 27799.7 KB)
+0019.077 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 6200 files added (on-disk size: 27799.7 KB)
+0019.135 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip.tmp: 6300 files added (on-disk size: 27799.7 KB)
+0020.959 (0) Created plugins zip (0) - 29509 KB in 20.9 s (1411.2 KB/s) (sha1: a71867cf96bf1a177b612de10ba3514f58f3f9b0, sha256: d838a099fb7e0431e8d8f4fa3a9b52c484956ded903c1a4822649d6426d5bad3)
+0020.969 (0) Beginning creation of dump of themes (split every: 400 MB)
+0021.221 (0) Total entities for the zip file: 73 directories, 294 files (0 skipped as non-modified), 24.8 MB
+0021.261 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0021.313 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0022.237 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-themes.zip.tmp: size is now: 18.30 MB
+0022.570 (0) Created themes zip (0) - 18699.5 KB in 1.6 s (11778.8 KB/s) (sha1: aef3fea27904e98e586b619e6c7623781fd48980, sha256: 85360d168036950b44c45f69dd0744ce35cba84ed319c96ec754d7396d5771f2)
+0022.576 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0022.577 (0) Looking for candidates to backup in: /home/sites/justinadamsmusic.com/public_html/wp-content/uploads
+0022.581 (0) finding files: 2019: adding to list (1)
+0022.582 (0) finding files: revslider: adding to list (2)
+0022.583 (0) finding files: 2020: adding to list (3)
+0022.585 (0) finding files: 2017: adding to list (4)
+0022.586 (0) finding files: 2018: adding to list (5)
+0022.587 (0) finding files: js_composer: adding to list (6)
+0022.588 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0023.245 (0) Total entities for the zip file: 386 directories, 707 files (0 skipped as non-modified), 8.1 MB
+0023.278 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0023.322 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0023.357 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0023.399 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0023.452 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0023.454 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.8 MB, 707 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0023.988 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip.tmp: size is now: 5.00 MB
+0024.040 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip.tmp: 600 files added (on-disk size: 5119 KB)
+0024.079 (0) Zip: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip.tmp: 700 files added (on-disk size: 5119 KB)
+0024.444 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip.tmp: size is now: 8.30 MB
+0024.595 (0) Created uploads zip (0) - 8487.8 KB in 2 s (4246 KB/s) (sha1: 3454eb440053301d87744c648aeb53a7135c0aa8, sha256: a1b217a42f28823d753ce59dcd65cc100f558704e00f80cf5bbf7605a244f36c)
+0024.600 (0) No backup of wpcore: excluded by user's options
+0024.603 (0) Beginning backup of other directories found in the content directory (index: 0)
+0024.605 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0024.606 (0) Looking for candidates to backup in: /home/sites/justinadamsmusic.com/public_html/wp-content
+0024.607 (0) finding files: envato-backups: skipping: excluded by options (glob)
+0024.609 (0) finding files: index.php: adding to list (1)
+0024.609 (0) finding files: plugins: skipping: this is the plugins directory
+0024.610 (0) finding files: wflogs: adding to list (2)
+0024.611 (0) finding files: uploads: skipping: this is the uploads directory
+0024.612 (0) finding files: themes: skipping: this is the themes directory
+0024.613 (0) finding files: languages: adding to list (3)
+0024.614 (0) finding files: upgrade: skipping: excluded by options
+0024.616 (0) finding files: updraft: skipping: this is the updraft directory
+0024.642 (0) Total entities for the zip file: 4 directories, 45 files (0 skipped as non-modified), 8.2 MB
+0025.783 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-others.zip.tmp: size is now: 3.10 MB
+0025.852 (0) Created others zip (0) - 3198.8 KB in 1.2 s (2596.2 KB/s) (sha1: a1770356a754ecd65ec3c24c4ac710226fafda0f, sha256: 1c71f27b8de1494d6ad4867f8293bdfa12f7c68f9688ec0e75a8f8468ea14728)
+0025.856 (0) No backup of more: excluded by user's options
+0025.863 (0) Saving backup status to database (elements: 8)
+0025.869 (0) Beginning creation of database dump (WordPress DB)
+0025.882 (0) Table wp_options: Total expected rows (approximate): 283
+0025.925 (0) Table wp_options: Total rows added: 288 in 0.04 seconds
+0025.929 (0) Table wp_options: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_options.table.gz - 127.9 KB)
+0025.937 (0) Table wp_users: Total expected rows (approximate): 1
+0025.941 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0025.942 (0) Table wp_users: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_users.table.gz - 0.5 KB)
+0025.950 (0) Table wp_usermeta: Total expected rows (approximate): 32
+0025.953 (0) Table wp_usermeta: Total rows added: 32 in 0.00 seconds
+0025.955 (0) Table wp_usermeta: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_usermeta.table.gz - 2.1 KB)
+0025.969 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0025.972 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0025.973 (0) Table wp_commentmeta: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0025.980 (0) Table wp_comments: Total expected rows (approximate): 0
+0025.983 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0025.984 (0) Table wp_comments: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_comments.table.gz - 0.5 KB)
+0025.992 (0) Table wp_links: Total expected rows (approximate): 0
+0025.994 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0025.996 (0) Table wp_links: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_links.table.gz - 0.4 KB)
+0026.003 (0) Table wp_postmeta: Total expected rows (approximate): 52
+0026.006 (0) Table wp_postmeta: Total rows added: 52 in 0.00 seconds
+0026.009 (0) Table wp_postmeta: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_postmeta.table.gz - 1.7 KB)
+0026.017 (0) Table wp_posts: Total expected rows (approximate): 72
+0026.026 (0) Table wp_posts: Total rows added: 73 in 0.01 seconds
+0026.028 (0) Table wp_posts: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_posts.table.gz - 7 KB)
+0026.035 (0) Table wp_term_relationships: Total expected rows (approximate): 0
+0026.040 (0) Table wp_term_relationships: Total rows added: 0 in 0.00 seconds
+0026.041 (0) Table wp_term_relationships: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_term_relationships.table.gz - 0.3 KB)
+0026.048 (0) Table wp_term_taxonomy: Total expected rows (approximate): 2
+0026.053 (0) Table wp_term_taxonomy: Total rows added: 2 in 0.00 seconds
+0026.055 (0) Table wp_term_taxonomy: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0026.064 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0026.066 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0026.068 (0) Table wp_termmeta: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_termmeta.table.gz - 0.4 KB)
+0026.077 (0) Table wp_terms: Total expected rows (approximate): 2
+0026.079 (0) Table wp_terms: Total rows added: 2 in 0.00 seconds
+0026.081 (0) Table wp_terms: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_terms.table.gz - 0.4 KB)
+0026.088 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 0
+0026.091 (0) Table wp_yoast_seo_links: Total rows added: 0 in 0.00 seconds
+0026.093 (0) Table wp_yoast_seo_links: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_yoast_seo_links.table.gz - 0.4 KB)
+0026.101 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 4
+0026.107 (0) Table wp_yoast_seo_meta: Total rows added: 8 in 0.01 seconds
+0026.109 (0) Table wp_yoast_seo_meta: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_yoast_seo_meta.table.gz - 0.4 KB)
+0026.117 (0) Table wp_revslider_css: Total expected rows (approximate): 109
+0026.124 (0) Table wp_revslider_css: Total rows added: 109 in 0.01 seconds
+0026.126 (0) Table wp_revslider_css: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_css.table.gz - 4.8 KB)
+0026.134 (0) Table wp_revslider_css_bkp: Total expected rows (approximate): 109
+0026.141 (0) Table wp_revslider_css_bkp: Total rows added: 109 in 0.01 seconds
+0026.145 (0) Table wp_revslider_css_bkp: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_css_bkp.table.gz - 4.8 KB)
+0026.154 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0026.164 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.01 seconds
+0026.167 (0) Table wp_revslider_layer_animations: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0026.181 (0) Table wp_revslider_layer_animations_bkp: Total expected rows (approximate): 0
+0026.193 (0) Table wp_revslider_layer_animations_bkp: Total rows added: 0 in 0.01 seconds
+0026.194 (0) Table wp_revslider_layer_animations_bkp: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_layer_animations_bkp.table.gz - 0.3 KB)
+0026.206 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0026.211 (0) Table wp_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0026.213 (0) Table wp_revslider_navigations: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_navigations.table.gz - 0.3 KB)
+0026.221 (0) Table wp_revslider_navigations_bkp: Total expected rows (approximate): 0
+0026.225 (0) Table wp_revslider_navigations_bkp: Total rows added: 0 in 0.00 seconds
+0026.234 (0) Table wp_revslider_navigations_bkp: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_navigations_bkp.table.gz - 0.3 KB)
+0026.243 (0) Table wp_revslider_sliders: Total expected rows (approximate): 2
+0026.247 (0) Table wp_revslider_sliders: Total rows added: 2 in 0.00 seconds
+0026.249 (0) Table wp_revslider_sliders: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_sliders.table.gz - 3.2 KB)
+0026.259 (0) Table wp_revslider_sliders_bkp: Total expected rows (approximate): 2
+0026.263 (0) Table wp_revslider_sliders_bkp: Total rows added: 2 in 0.00 seconds
+0026.264 (0) Table wp_revslider_sliders_bkp: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_sliders_bkp.table.gz - 3.2 KB)
+0026.272 (0) Table wp_revslider_slides: Total expected rows (approximate): 3
+0026.277 (0) Table wp_revslider_slides: Total rows added: 3 in 0.00 seconds
+0026.282 (0) Table wp_revslider_slides: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_slides.table.gz - 4.3 KB)
+0026.292 (0) Table wp_revslider_slides_bkp: Total expected rows (approximate): 3
+0026.299 (0) Table wp_revslider_slides_bkp: Total rows added: 3 in 0.01 seconds
+0026.301 (0) Table wp_revslider_slides_bkp: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_slides_bkp.table.gz - 4.3 KB)
+0026.315 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 0
+0026.319 (0) Table wp_revslider_static_slides: Total rows added: 0 in 0.00 seconds
+0026.321 (0) Table wp_revslider_static_slides: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_static_slides.table.gz - 0.3 KB)
+0026.333 (0) Table wp_revslider_static_slides_bkp: Total expected rows (approximate): 0
+0026.340 (0) Table wp_revslider_static_slides_bkp: Total rows added: 0 in 0.00 seconds
+0026.343 (0) Table wp_revslider_static_slides_bkp: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_static_slides_bkp.table.gz - 0.3 KB)
+0026.352 (0) Table wp_wfBlockedIPLog: Total expected rows (approximate): 92
+0026.355 (0) Table wp_wfBlockedIPLog: Total rows added: 95 in 0.00 seconds
+0026.357 (0) Table wp_wfBlockedIPLog: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfBlockedIPLog.table.gz - 1.2 KB)
+0026.368 (0) Table wp_wfBlocks7: Total expected rows (approximate): 0
+0026.372 (0) Table wp_wfBlocks7: Total rows added: 0 in 0.00 seconds
+0026.374 (0) Table wp_wfBlocks7: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfBlocks7.table.gz - 0.4 KB)
+0026.381 (0) Table wp_wfConfig: Total expected rows (approximate): 272
+0026.407 (0) Table wp_wfConfig: Total rows added: 273 in 0.02 seconds
+0026.414 (0) Table wp_wfConfig: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfConfig.table.gz - 374 KB)
+0026.422 (0) Table wp_wfCrawlers: Total expected rows (approximate): 6
+0026.426 (0) Table wp_wfCrawlers: Total rows added: 6 in 0.00 seconds
+0026.429 (0) Table wp_wfCrawlers: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfCrawlers.table.gz - 0.6 KB)
+0026.436 (0) Table wp_wfFileChanges: Total expected rows (approximate): 0
+0026.438 (0) Table wp_wfFileChanges: Total rows added: 0 in 0.00 seconds
+0026.439 (0) Table wp_wfFileChanges: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfFileChanges.table.gz - 0.3 KB)
+0026.449 (0) Table wp_wfFileMods: Total expected rows (approximate): 1194
+0026.602 (0) Table wp_wfFileMods: Total rows added: 7142 in 0.15 seconds
+0026.611 (0) Table wp_wfFileMods: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfFileMods.table.gz - 624 KB)
+0026.619 (0) Table wp_wfHits: Total expected rows (approximate): 318
+0026.630 (0) Table wp_wfHits: Total rows added: 375 in 0.01 seconds
+0026.632 (0) Table wp_wfHits: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfHits.table.gz - 12.6 KB)
+0026.639 (0) Table wp_wfHoover: Total expected rows (approximate): 0
+0026.642 (0) Table wp_wfHoover: Total rows added: 0 in 0.00 seconds
+0026.643 (0) Table wp_wfHoover: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfHoover.table.gz - 0.3 KB)
+0026.650 (0) Table wp_wfIssues: Total expected rows (approximate): 11
+0026.662 (0) Table wp_wfIssues: Total rows added: 11 in 0.01 seconds
+0026.664 (0) Table wp_wfIssues: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfIssues.table.gz - 3.9 KB)
+0026.672 (0) Table wp_wfKnownFileList: Total expected rows (approximate): 7272
+0026.729 (0) Table wp_wfKnownFileList: Total rows added: 7142 in 0.05 seconds
+0026.731 (0) Table wp_wfKnownFileList: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfKnownFileList.table.gz - 71.6 KB)
+0026.743 (0) Table wp_wfLiveTrafficHuman: Total expected rows (approximate): 0
+0026.746 (0) Table wp_wfLiveTrafficHuman: Total rows added: 0 in 0.00 seconds
+0026.748 (0) Table wp_wfLiveTrafficHuman: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfLiveTrafficHuman.table.gz - 0.3 KB)
+0026.758 (0) Table wp_wfLocs: Total expected rows (approximate): 0
+0026.761 (0) Table wp_wfLocs: Total rows added: 0 in 0.00 seconds
+0026.762 (0) Table wp_wfLocs: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfLocs.table.gz - 0.4 KB)
+0026.769 (0) Table wp_wfLogins: Total expected rows (approximate): 213
+0026.780 (0) Table wp_wfLogins: Total rows added: 680 in 0.01 seconds
+0026.782 (0) Table wp_wfLogins: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfLogins.table.gz - 14.3 KB)
+0026.790 (0) Table wp_wfNotifications: Total expected rows (approximate): 59
+0026.794 (0) Table wp_wfNotifications: Total rows added: 125 in 0.00 seconds
+0026.795 (0) Table wp_wfNotifications: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfNotifications.table.gz - 3.6 KB)
+0026.803 (0) Table wp_wfPendingIssues: Total expected rows (approximate): 0
+0026.806 (0) Table wp_wfPendingIssues: Total rows added: 0 in 0.00 seconds
+0026.808 (0) Table wp_wfPendingIssues: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfPendingIssues.table.gz - 0.4 KB)
+0026.815 (0) Table wp_wfReverseCache: Total expected rows (approximate): 0
+0026.819 (0) Table wp_wfReverseCache: Total rows added: 0 in 0.00 seconds
+0026.820 (0) Table wp_wfReverseCache: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfReverseCache.table.gz - 0.3 KB)
+0026.826 (0) Table wp_wfSNIPCache: Total expected rows (approximate): 0
+0026.829 (0) Table wp_wfSNIPCache: Total rows added: 0 in 0.00 seconds
+0026.830 (0) Table wp_wfSNIPCache: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfSNIPCache.table.gz - 0.4 KB)
+0026.839 (0) Table wp_wfStatus: Total expected rows (approximate): 976
+0026.850 (0) Table wp_wfStatus: Total rows added: 976 in 0.01 seconds
+0026.852 (0) Table wp_wfStatus: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfStatus.table.gz - 16 KB)
+0026.860 (0) Table wp_wfTrafficRates: Total expected rows (approximate): 0
+0026.863 (0) Table wp_wfTrafficRates: Total rows added: 0 in 0.00 seconds
+0026.865 (0) Table wp_wfTrafficRates: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfTrafficRates.table.gz - 0.3 KB)
+0026.871 (0) Table wp_wfls_2fa_secrets: Total expected rows (approximate): 0
+0026.874 (0) Table wp_wfls_2fa_secrets: Total rows added: 0 in 0.00 seconds
+0026.878 (0) Table wp_wfls_2fa_secrets: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfls_2fa_secrets.table.gz - 0.4 KB)
+0026.887 (0) Table wp_wfls_settings: Total expected rows (approximate): 17
+0026.891 (0) Table wp_wfls_settings: Total rows added: 19 in 0.00 seconds
+0026.892 (0) Table wp_wfls_settings: finishing file (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfls_settings.table.gz - 0.7 KB)
+0026.896 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_options.table.gz (1/47): adding to final database dump
+0026.923 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_users.table.gz (2/47): adding to final database dump
+0026.925 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_usermeta.table.gz (3/47): adding to final database dump
+0026.928 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_commentmeta.table.gz (4/47): adding to final database dump
+0026.930 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_comments.table.gz (5/47): adding to final database dump
+0026.931 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_links.table.gz (6/47): adding to final database dump
+0026.940 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_postmeta.table.gz (7/47): adding to final database dump
+0026.942 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_posts.table.gz (8/47): adding to final database dump
+0026.946 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_term_relationships.table.gz (9/47): adding to final database dump
+0026.949 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_term_taxonomy.table.gz (10/47): adding to final database dump
+0026.951 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_termmeta.table.gz (11/47): adding to final database dump
+0026.953 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_terms.table.gz (12/47): adding to final database dump
+0026.955 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_yoast_seo_links.table.gz (13/47): adding to final database dump
+0026.957 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_yoast_seo_meta.table.gz (14/47): adding to final database dump
+0026.960 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_css.table.gz (15/47): adding to final database dump
+0026.963 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_css_bkp.table.gz (16/47): adding to final database dump
+0026.968 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_layer_animations.table.gz (17/47): adding to final database dump
+0026.971 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_layer_animations_bkp.table.gz (18/47): adding to final database dump
+0026.973 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_navigations.table.gz (19/47): adding to final database dump
+0026.976 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_navigations_bkp.table.gz (20/47): adding to final database dump
+0026.978 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_sliders.table.gz (21/47): adding to final database dump
+0026.981 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_sliders_bkp.table.gz (22/47): adding to final database dump
+0026.985 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_slides.table.gz (23/47): adding to final database dump
+0026.989 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_slides_bkp.table.gz (24/47): adding to final database dump
+0026.993 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_static_slides.table.gz (25/47): adding to final database dump
+0026.998 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_revslider_static_slides_bkp.table.gz (26/47): adding to final database dump
+0027.016 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfBlockedIPLog.table.gz (27/47): adding to final database dump
+0027.020 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfBlocks7.table.gz (28/47): adding to final database dump
+0027.030 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfConfig.table.gz (29/47): adding to final database dump
+0027.053 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfCrawlers.table.gz (30/47): adding to final database dump
+0027.057 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfFileChanges.table.gz (31/47): adding to final database dump
+0027.061 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfFileMods.table.gz (32/47): adding to final database dump
+0027.119 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfHits.table.gz (33/47): adding to final database dump
+0027.125 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfHoover.table.gz (34/47): adding to final database dump
+0027.126 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfIssues.table.gz (35/47): adding to final database dump
+0027.129 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfKnownFileList.table.gz (36/47): adding to final database dump
+0027.146 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfLiveTrafficHuman.table.gz (37/47): adding to final database dump
+0027.149 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfLocs.table.gz (38/47): adding to final database dump
+0027.153 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfLogins.table.gz (39/47): adding to final database dump
+0027.158 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfNotifications.table.gz (40/47): adding to final database dump
+0027.160 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfPendingIssues.table.gz (41/47): adding to final database dump
+0027.162 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfReverseCache.table.gz (42/47): adding to final database dump
+0027.164 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfSNIPCache.table.gz (43/47): adding to final database dump
+0027.165 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfStatus.table.gz (44/47): adding to final database dump
+0027.170 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfTrafficRates.table.gz (45/47): adding to final database dump
+0027.172 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfls_2fa_secrets.table.gz (46/47): adding to final database dump
+0027.174 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db-table-wp_wfls_settings.table.gz (47/47): adding to final database dump
+0027.188 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db.gz: finished writing out complete database file (1024 KB)
+0027.226 (0) Total database tables backed up: 47 (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db.gz, size: 1312904, sha1: def620581b60de3ea939cca8df19b3553189a01d, sha256: 1805f2c495199fcd5a0b61ea637184961f9838a75827c9c1d654e4e0a9341c24)
+0027.240 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0027.241 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0027.242 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0027.244 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0027.245 (0) backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0027.246 (0) Saving backup history. Total backup size: 59.7 MB
+0027.252 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0027.255 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0027.257 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-17262ac4a7016f8e96ebc5fe533e6e75)
+0027.257 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0027.261 (0) Dropbox: access gained; setting chunk size to: 10240 KB
+0027.565 (0) Dropbox: quota usage: used=1635483 MB, total=2119936 MB, available=484453 MB
+0027.566 (0) Dropbox: Attempt to upload: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip to: ribbons/backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip
+0032.311 (0) Dropbox chunked upload: 34.7 % uploaded (AAAAAAALge6IR1wOY39lew, 10485760, 10240 KB)
+0035.047 (0) Dropbox chunked upload: 69.4 % uploaded (AAAAAAALge6IR1wOY39lew, 20971520, 10240 KB)
+0037.136 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAALge6IR1wOY39lew, 30217202, 10240 KB)
+0038.691 (0) Recording as successfully uploaded: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip
+0038.709 (0) Deleting local file: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip: OK
+0038.711 (0) Dropbox: File upload success (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-plugins.zip): 29508 KB in 11s (2647 KB/s)
+0039.042 (0) Dropbox: quota usage: used=1635511.9 MB, total=2119936 MB, available=484424.1 MB
+0039.043 (0) Dropbox: Attempt to upload: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-themes.zip to: ribbons/backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-themes.zip
+0043.711 (0) Dropbox chunked upload: 54.8 % uploaded (AAAAAAALge9dm-8p-ImSFA, 10485760, 10240 KB)
+0047.587 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAALge9dm-8p-ImSFA, 19148304, 10240 KB)
+0049.280 (0) Recording as successfully uploaded: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-themes.zip
+0049.289 (0) Deleting local file: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-themes.zip: OK
+0049.291 (0) Dropbox: File upload success (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-themes.zip): 18699 KB in 10s (1824 KB/s)
+0049.579 (0) Dropbox: quota usage: used=1635530.1 MB, total=2119936 MB, available=484405.9 MB
+0049.582 (0) Dropbox: Attempt to upload: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip to: ribbons/backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip
+0053.314 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAALgfAYGljOopv2iw, 8691501, 10240 KB)
+0054.465 (0) Recording as successfully uploaded: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip
+0054.472 (0) Deleting local file: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip: OK
+0054.473 (0) Dropbox: File upload success (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-uploads.zip): 8487 KB in 4s (1735 KB/s)
+0054.747 (0) Dropbox: quota usage: used=1635538.4 MB, total=2119936 MB, available=484397.6 MB
+0054.748 (0) Dropbox: Attempt to upload: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-others.zip to: ribbons/backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-others.zip
+0057.148 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAALgfHxEKC2hLsbiQ, 3275574, 10240 KB)
+0059.122 (0) Recording as successfully uploaded: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-others.zip
+0059.129 (0) Deleting local file: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-others.zip: OK
+0059.131 (0) Dropbox: File upload success (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-others.zip): 3198 KB in 4s (729 KB/s)
+0059.424 (0) Dropbox: quota usage: used=1635541.5 MB, total=2119936 MB, available=484394.5 MB
+0059.426 (0) Dropbox: Attempt to upload: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db.gz to: ribbons/backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db.gz
+0060.400 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAALgfK4pu75b06h1A, 1312904, 10240 KB)
+0063.622 (0) Recording as successfully uploaded: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db.gz
+0063.628 (0) Deleting local file: backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db.gz: OK
+0063.630 (0) Dropbox: File upload success (backup_2020-07-04-1613_RIBBONS_JUSTIN_ADAMS_feat_ANN_a2308831b75b-db.gz): 1282 KB in 4s (304 KB/s)
+0063.637 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=9, retain_db=9
+0063.640 (0) Number of backup sets in history: 32; groups (db): 1
+0063.641 (0) Examining (for databases) backup set with group_id=0, nonce=a2308831b75b, datestamp=1593875583 (Jul 04 2020 15:13:03)
+0063.642 (0) This backup set is the backup set just made, so will not be deleted.
+0063.642 (0) Examining (for databases) backup set with group_id=0, nonce=aa57bd1daa43, datestamp=1593762982 (Jul 03 2020 07:56:22)
+0063.642 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0063.643 (0) Examining (for databases) backup set with group_id=0, nonce=a243a90ea6e6, datestamp=1593562864 (Jul 01 2020 00:21:04)
+0063.643 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0063.643 (0) Examining (for databases) backup set with group_id=0, nonce=28683b68f6ff, datestamp=1593488234 (Jun 30 2020 03:37:14)
+0063.643 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0063.643 (0) Examining (for databases) backup set with group_id=0, nonce=cd797f572fe5, datestamp=1593360665 (Jun 28 2020 16:11:05)
+0063.643 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0063.643 (0) Examining (for databases) backup set with group_id=0, nonce=718903f7c0ef, datestamp=1593079604 (Jun 25 2020 10:06:44)
+0063.643 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0063.643 (0) Examining (for databases) backup set with group_id=0, nonce=094cb5b4aa06, datestamp=1592801417 (Jun 22 2020 04:50:17)
+0063.643 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0063.643 (0) Examining (for databases) backup set with group_id=0, nonce=5a2525862a63, datestamp=1592738582 (Jun 21 2020 11:23:02)
+0063.643 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0063.643 (0) Examining (for databases) backup set with group_id=0, nonce=5e9106961e66, datestamp=1592679997 (Jun 20 2020 19:06:37)
+0063.643 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0063.643 (0) Examining (for databases) backup set with group_id=0, nonce=98985f581847, datestamp=1592535130 (Jun 19 2020 02:52:10)
+0063.643 (0) 1592535130: db: this set includes a database (backup_2020-06-19-0352_RIBBONS_JUSTIN_ADAMS_feat_ANN_98985f581847-db.gz); db count is now 9
+0063.643 (0) 1592535130: db: over retain limit (9); will delete this database
+0063.644 (0) Delete file: backup_2020-06-19-0352_RIBBONS_JUSTIN_ADAMS_feat_ANN_98985f581847-db.gz, service=dropbox
+0063.647 (0) Dropbox: request deletion: ribbons/backup_2020-06-19-0352_RIBBONS_JUSTIN_ADAMS_feat_ANN_98985f581847-db.gz
+0064.237 (0) Dropbox: delete succeeded
+0064.240 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0064.241 (0) Examining (for databases) backup set with group_id=0, nonce=eda0432b2006, datestamp=1591838702 (Jun 11 2020 01:25:02)
+0064.241 (0) Examining (for databases) backup set with group_id=0, nonce=365b6c2ff176, datestamp=1588263223 (Apr 30 2020 16:13:43)
+0064.241 (0) Examining (for databases) backup set with group_id=0, nonce=a4304ea726e2, datestamp=1576283149 (Dec 14 2019 00:25:49)
+0064.241 (0) Examining (for databases) backup set with group_id=0, nonce=b2a8c038d6f5, datestamp=1572532600 (Oct 31 2019 14:36:40)
+0064.241 (0) Examining (for databases) backup set with group_id=0, nonce=422bee9ec9d8, datestamp=1571156309 (Oct 15 2019 16:18:29)
+0064.241 (0) Examining (for databases) backup set with group_id=0, nonce=10379875fad7, datestamp=1567680534 (Sep 05 2019 10:48:54)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=b29bfac917fb, datestamp=1552508846 (Mar 13 2019 20:27:26)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=2f307832e26f, datestamp=1547107384 (Jan 10 2019 08:03:04)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=1bea8c62dcb7, datestamp=1545277749 (Dec 20 2018 03:49:09)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=dde9640d4cb2, datestamp=1544775823 (Dec 14 2018 08:23:43)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=3943296d0b89, datestamp=1544722821 (Dec 13 2018 17:40:21)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=d15bbd55e1d4, datestamp=1533426270 (Aug 04 2018 23:44:30)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=8de884d8587a, datestamp=1530904438 (Jul 06 2018 19:13:58)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=71eb1c311cc8, datestamp=1527137047 (May 24 2018 04:44:07)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=eea43264f164, datestamp=1523040618 (Apr 06 2018 18:50:18)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=52b705310da4, datestamp=1520948604 (Mar 13 2018 13:43:24)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=d9dbae291825, datestamp=1516471592 (Jan 20 2018 18:06:32)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=f7c00ffc3859, datestamp=1512102987 (Dec 01 2017 04:36:27)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=e0d26d4ddb53, datestamp=1509557019 (Nov 01 2017 17:23:39)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=105fb451a35b, datestamp=1506010831 (Sep 21 2017 16:20:31)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=12f82582dfeb, datestamp=1495060724 (May 17 2017 22:38:44)
+0064.242 (0) Examining (for databases) backup set with group_id=0, nonce=ed02c08b2aa9, datestamp=1493394598 (Apr 28 2017 15:49:58)
+0064.242 (0) Number of backup sets in history: 32; groups (files): 1
+0064.243 (0) Examining (for files) backup set with nonce=a2308831b75b, datestamp=1593875583 (Jul 04 2020 15:13:03)
+0064.243 (0) This backup set is the backup set just made, so will not be deleted.
+0064.244 (0) This backup set is the backup set just made, so will not be deleted.
+0064.244 (0) This backup set is the backup set just made, so will not be deleted.
+0064.244 (0) This backup set is the backup set just made, so will not be deleted.
+0064.245 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.246 (0) Examining (for files) backup set with nonce=aa57bd1daa43, datestamp=1593762982 (Jul 03 2020 07:56:22)
+0064.246 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.246 (0) Examining (for files) backup set with nonce=a243a90ea6e6, datestamp=1593562864 (Jul 01 2020 00:21:04)
+0064.246 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.246 (0) Examining (for files) backup set with nonce=28683b68f6ff, datestamp=1593488234 (Jun 30 2020 03:37:14)
+0064.246 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.246 (0) Examining (for files) backup set with nonce=cd797f572fe5, datestamp=1593360665 (Jun 28 2020 16:11:05)
+0064.246 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.246 (0) Examining (for files) backup set with nonce=718903f7c0ef, datestamp=1593079604 (Jun 25 2020 10:06:44)
+0064.246 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.246 (0) Examining (for files) backup set with nonce=094cb5b4aa06, datestamp=1592801417 (Jun 22 2020 04:50:17)
+0064.247 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.247 (0) Examining (for files) backup set with nonce=5a2525862a63, datestamp=1592738582 (Jun 21 2020 11:23:02)
+0064.247 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.247 (0) Examining (for files) backup set with nonce=5e9106961e66, datestamp=1592679997 (Jun 20 2020 19:06:37)
+0064.247 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.247 (0) Examining (for files) backup set with nonce=98985f581847, datestamp=1592535130 (Jun 19 2020 02:52:10)
+0064.247 (0) plugins: over retain limit (9); will delete this file entity
+0064.247 (0) themes: over retain limit (9); will delete this file entity
+0064.247 (0) uploads: over retain limit (9); will delete this file entity
+0064.247 (0) others: over retain limit (9); will delete this file entity
+0064.247 (0) Delete file: backup_2020-06-19-0352_RIBBONS_JUSTIN_ADAMS_feat_ANN_98985f581847-plugins.zip, service=dropbox
+0064.248 (0) Delete file: backup_2020-06-19-0352_RIBBONS_JUSTIN_ADAMS_feat_ANN_98985f581847-themes.zip, service=dropbox
+0064.250 (0) Delete file: backup_2020-06-19-0352_RIBBONS_JUSTIN_ADAMS_feat_ANN_98985f581847-uploads.zip, service=dropbox
+0064.252 (0) Delete file: backup_2020-06-19-0352_RIBBONS_JUSTIN_ADAMS_feat_ANN_98985f581847-others.zip, service=dropbox
+0064.253 (0) Dropbox: request deletion: ribbons/backup_2020-06-19-0352_RIBBONS_JUSTIN_ADAMS_feat_ANN_98985f581847-plugins.zip
+0065.065 (0) Dropbox: delete succeeded
+0065.068 (0) This backup set is now empty; will remove from history
+0065.070 (0) Deleting log file (log.98985f581847.txt)
+0065.073 (0) Retain: saving new backup history, because at least 10 seconds have passed since the last save (sets now: 31)
+0065.089 (0) Examining (for files) backup set with nonce=eda0432b2006, datestamp=1591838702 (Jun 11 2020 01:25:02)
+0065.089 (0) This backup set (1591838702) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.089 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=365b6c2ff176, datestamp=1588263223 (Apr 30 2020 16:13:43)
+0065.091 (0) This backup set (1588263223) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=a4304ea726e2, datestamp=1576283149 (Dec 14 2019 00:25:49)
+0065.091 (0) This backup set (1576283149) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=b2a8c038d6f5, datestamp=1572532600 (Oct 31 2019 14:36:40)
+0065.091 (0) This backup set (1572532600) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=422bee9ec9d8, datestamp=1571156309 (Oct 15 2019 16:18:29)
+0065.091 (0) This backup set (1571156309) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=10379875fad7, datestamp=1567680534 (Sep 05 2019 10:48:54)
+0065.091 (0) This backup set (1567680534) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=b29bfac917fb, datestamp=1552508846 (Mar 13 2019 20:27:26)
+0065.091 (0) This backup set (1552508846) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=2f307832e26f, datestamp=1547107384 (Jan 10 2019 08:03:04)
+0065.091 (0) This backup set (1547107384) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=1bea8c62dcb7, datestamp=1545277749 (Dec 20 2018 03:49:09)
+0065.091 (0) This backup set (1545277749) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=dde9640d4cb2, datestamp=1544775823 (Dec 14 2018 08:23:43)
+0065.091 (0) This backup set (1544775823) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=3943296d0b89, datestamp=1544722821 (Dec 13 2018 17:40:21)
+0065.091 (0) This backup set (1544722821) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=d15bbd55e1d4, datestamp=1533426270 (Aug 04 2018 23:44:30)
+0065.091 (0) This backup set (1533426270) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=8de884d8587a, datestamp=1530904438 (Jul 06 2018 19:13:58)
+0065.091 (0) This backup set (1530904438) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=71eb1c311cc8, datestamp=1527137047 (May 24 2018 04:44:07)
+0065.091 (0) This backup set (1527137047) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=eea43264f164, datestamp=1523040618 (Apr 06 2018 18:50:18)
+0065.091 (0) This backup set (1523040618) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.091 (0) Examining (for files) backup set with nonce=52b705310da4, datestamp=1520948604 (Mar 13 2018 13:43:24)
+0065.091 (0) This backup set (1520948604) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.091 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.092 (0) Examining (for files) backup set with nonce=d9dbae291825, datestamp=1516471592 (Jan 20 2018 18:06:32)
+0065.092 (0) This backup set (1516471592) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.092 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.092 (0) Examining (for files) backup set with nonce=f7c00ffc3859, datestamp=1512102987 (Dec 01 2017 04:36:27)
+0065.092 (0) This backup set (1512102987) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.092 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.092 (0) Examining (for files) backup set with nonce=e0d26d4ddb53, datestamp=1509557019 (Nov 01 2017 17:23:39)
+0065.092 (0) This backup set (1509557019) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.092 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.092 (0) Examining (for files) backup set with nonce=105fb451a35b, datestamp=1506010831 (Sep 21 2017 16:20:31)
+0065.092 (0) This backup set (1506010831) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.092 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.092 (0) Examining (for files) backup set with nonce=12f82582dfeb, datestamp=1495060724 (May 17 2017 22:38:44)
+0065.092 (0) This backup set (1495060724) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.092 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.092 (0) Examining (for files) backup set with nonce=ed02c08b2aa9, datestamp=1493394598 (Apr 28 2017 15:49:58)
+0065.092 (0) This backup set (1493394598) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0065.092 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0065.092 (0) Retain: saving new backup history (sets now: 31) and finishing retain operation
+0065.098 (0) Resume backup (a2308831b75b, 0): finish run
+0065.102 (0) Decremented the semaphore (fd) by 1
+0065.105 (0) Semaphore (fd) unlocked
+0065.106 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0065.110 (0) No email will/can be sent - the user has not configured an email address.
+0065.112 (0) The backup apparently succeeded (with warnings) and is now complete

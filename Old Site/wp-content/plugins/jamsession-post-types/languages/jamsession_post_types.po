@@ -1,0 +1,738 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JamSession Post Types Plugin\n"
+"POT-Creation-Date: 2013-10-19 19:26+0200\n"
+"PO-Revision-Date: 2013-10-19 19:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: SmartWpress <jamsession@smartwpress.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\JamSession\\18.10.2013\\jamsession-post-types\n"
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:9
+msgid "Albums"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:10
+msgid "Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:11
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:12
+msgid "Add New Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:13
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:14
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:13
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:14
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:13
+msgid "Edit"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:14
+msgid "Edit Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:15
+msgid "New Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:16
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:17
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:16
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:17
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:16
+msgid "View"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:17
+msgid "View Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:18
+msgid "Search Albums"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:19
+msgid "No Album Found"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:20
+msgid "No Album Found in Trash"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:21
+msgid "Parent Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:41
+msgid "Album Settings"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:50
+msgid "Song List"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:95
+msgid "Artist/Band"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:97
+msgid "Artist/Band Name"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:101
+msgid "Release Date"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:103
+msgid "Album Release Date YYYY/MM/DD"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:107
+msgid "Number of Discs"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:109
+msgid "Number of Discs  1/2/3..."
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:113
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:419
+msgid "Label"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:115
+msgid "Record Label - like - Chess Records"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:119
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:420
+msgid "Producer"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:121
+msgid "Album Producer - like - Bob Rock"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:125
+msgid "Youtube Promo URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:127
+msgid "Youtube URL - like - http://youtu.be/jUk-5nsGedM "
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:131
+msgid "Vimeo Promo URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:133
+msgid "Vimeo URL - like - http://vimeo.com/8119784 "
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:138
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:151
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:164
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:177
+msgid "Buy Message"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:140
+msgid "Buy Message - like - Buy It from Amazon"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:144
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:157
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:170
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:183
+msgid "Buy URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:146
+msgid ""
+"Buy URL - like - http://www.amazon.com/Old-Sock-Eric-Clapton/dp/B00B23O96A/"
+"ref=ntt_mus_ep_dpi_1 "
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:153
+msgid "Buy Message - like - Buy It from iTunes"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:159
+msgid ""
+"Buy URL - like - https://itunes.apple.com/us/album/living-proof/id394442693 "
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:166
+msgid "Buy Message - like - Buy It from SoundCloud"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:172
+msgid ""
+"Buy URL - like - http://www.last.fm/music/Radiohead/1995-06-01:+Tramps,+New"
+"+York,+NY,+USA "
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:179
+msgid "Buy Message - like - Buy It from eBay"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:185
+msgid "Buy URL - like - http://www.ebay.com/soc/itm/330938741705 "
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:417
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:255
+msgid "Album Title"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:418
+msgid "Album Artist"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:421
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:259
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:255
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:169
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:115
+msgid "Author"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:422
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:256
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:260
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:256
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:170
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:116
+msgid "Date"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:515
+msgid "Album Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:516
+msgid "Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:517
+msgid "Search Album Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:518
+msgid "All Album Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:519
+msgid "Parent Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:520
+msgid "Parent Album Category:"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:521
+msgid "Edit Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:522
+msgid "Update Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:523
+msgid "Add New Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/albums.php:524
+msgid "New Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:10
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:11
+msgid "Events"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:12
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:13
+msgid "Add New Event"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:15
+msgid "Edit Event"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:16
+msgid "New Event"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:18
+msgid "View Event"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:19
+msgid "Search Events"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:20
+msgid "No Event Found"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:21
+msgid "No Event Found in Trash"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:22
+msgid "Parent Event"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:41
+msgid "Event Settings"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:77
+msgid "Event Date"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:79
+msgid "The Date for Event YYYY/MM/DD"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:83
+msgid "Event Time"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:85
+msgid "Event Time hh:mm"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:89
+msgid "Event Venue"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:91
+msgid "Venue ex. Glastonbury Festival"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:95
+msgid "Venue URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:97
+msgid "Venue URL ex. http://www.glastonburyfestivals.co.uk/"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:102
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:257
+msgid "Location"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:104
+msgid "Event Location ex. Worthy Farm, Pilton GB"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:109
+msgid "Buy Tickets Message"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:111
+msgid "ex. Buy Tickets From ..."
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:115
+msgid "Buy Tickets URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:117
+msgid "ex. http://www.ticketmaster.com/"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:121
+msgid "Facebook Event Message"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:123
+msgid "ex. Check event on Facebook"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:127
+msgid "Facebook Event URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:129
+msgid "URL to Facebook Event Page"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:133
+msgid "Google Map URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:135
+msgid ""
+"URL to Event Location ex. https://maps.google.com/maps?"
+"q=coachella&hnear=Coachella,+Riverside,+California&t=m&z=12"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:139
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:101
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:61
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:113
+msgid "Youtube URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:141
+msgid "URL to Promo Video on Youtube"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:145
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:107
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:67
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:114
+msgid "Vimeo URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:147
+msgid "URL to Promo Video on Vimeo"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:151
+msgid "Link to Internal Video"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:153
+msgid "URL to Internal Video Post - Applicable to Past Events"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:157
+msgid "Link to Internal Gallery"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:159
+msgid "URL to Internal Gallery Post - Applicable to Past Events"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:258
+msgid "Venue"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:318
+msgid "Event Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:319
+msgid "Event Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:320
+msgid "Search Event Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:321
+msgid "All Event Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:322
+msgid "Parent Event Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:323
+msgid "Parent Event Category:"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:324
+msgid "Edit Event Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:325
+msgid "Update Event Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:326
+msgid "Add New Event Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/events.php:327
+msgid "New Event Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:9
+msgid "Photo Albums"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:10
+msgid "Photo Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:11
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:12
+msgid "Add New Photo Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:14
+msgid "Edit Photo Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:15
+msgid "New Photo Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:17
+msgid "View Photo Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:18
+msgid "Search Photo Albums"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:19
+msgid "No Photo Albums found"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:20
+msgid "No Photo Albums Found in Trash"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:21
+msgid "Parent Photo Album"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:39
+msgid "Image Gallery"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:254
+msgid "Photo Album Title"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:290
+msgid "Photo Album Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:291
+msgid "Photo Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:292
+msgid "Search Photo Album Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:293
+msgid "All Photo Album Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:294
+msgid "Parent Photo Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:295
+msgid "Parent Photo Album Category:"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:296
+msgid "Edit Photo Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:297
+msgid "Update Photo Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:298
+msgid "Add New Photo Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/photo_albums.php:299
+msgid "New Photo Album Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:10
+msgid "Slides"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:11
+msgid "Slide"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:12
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:13
+msgid "Add New Slide"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:15
+msgid "Edit Slide"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:16
+msgid "New Slide"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:18
+msgid "View Slide"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:19
+msgid "Search Slides"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:20
+msgid "No Slides Found"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:21
+msgid "No Slides Found in Trash"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:22
+msgid "Parent Slide"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:44
+msgid "Slide Settings"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:69
+msgid "Hide Title &amp; Message"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:85
+msgid "Hide Title and Message on front page."
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:89
+msgid "Message"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:91
+msgid "Message for the front page."
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:95
+msgid "URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:97
+msgid "URL loaded when visitor clicks on message."
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:103
+msgid "Youtube short url like - http://youtu.be/jUk-5nsGedM "
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:109
+msgid "Vimeo short url like - http://vimeo.com/8119784 "
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:166
+msgid "Slide Title"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:167
+msgid "Slide Message"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/slides.php:168
+msgid "Slide URL"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:9
+msgid "Videos"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:10
+msgid "Video"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:11
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:12
+msgid "Add New Video"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:14
+msgid "Edit Video"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:15
+msgid "New Video"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:17
+msgid "View Video"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:18
+msgid "Search Videos"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:19
+msgid "No Videos Found"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:20
+msgid "No Videos Found in Trash"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:21
+msgid "Parent Video"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:39
+msgid "Video Custom Settings"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:63
+msgid "Youtube short url like - http://youtu.be/jUk-5nsGedM ."
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:69
+msgid "Vimeo short url like - http://vimeo.com/8119784 ."
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:112
+msgid "Video Title"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:176
+msgid "Video Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:177
+msgid "Video Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:178
+msgid "Search Video Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:179
+msgid "All Video Categories"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:180
+msgid "Parent Video Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:181
+msgid "Parent Video Category:"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:182
+msgid "Edit Video Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:183
+msgid "Update Video Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:184
+msgid "Add New Video Category"
+msgstr ""
+
+#: D:\JamSession\18.10.2013\jamsession-post-types/videos.php:185
+msgid "New Video Category"
+msgstr ""
